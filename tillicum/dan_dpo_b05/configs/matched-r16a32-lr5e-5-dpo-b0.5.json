@@ -1,0 +1,67 @@
+{
+  "actor": "/gpfs/scrubbed/dan29/hf/OpenWebRL-4B-SFT",
+  "data": "/gpfs/scrubbed/dan29/lora_dpo_arms/data_eqcount_piotr",
+  "seed": 42,
+  "objective": "dpo",
+  "train_examples": 4078,
+  "validation_examples": 658,
+  "batch_size": 32,
+  "epochs": 1,
+  "total_updates": 128,
+  "final_batch_size": 14,
+  "learning_rate": 5e-05,
+  "warmup_examples": 512,
+  "endpoint_lr_factor": 0.5,
+  "lora_rank": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "max_tokens": 32768,
+  "checkpoint_updates": [
+    32,
+    64,
+    96,
+    128
+  ],
+  "validation_updates": [
+    0,
+    32,
+    64,
+    96,
+    128
+  ],
+  "wandb_project": "openwebrl-arm",
+  "wandb_group": "rpo-ablation",
+  "data_hashes": {
+    "joint_pairs.train.jsonl": "113615b295aa5054eca782fc0dec9f8a4ddeb65c915de08c55a078b11f75e381",
+    "validation-panel-c2.jsonl": "22d22edf3dd5ad9892671a63b68181a05e089c3c9596c2a5148513ec9023f4cb",
+    "validation-panel-piotr.jsonl": "fc4a628c30a40de0bd1faa8efae02c89f863627c37cc6974a73f8f1812c13ef0"
+  },
+  "model_metadata_hashes": {
+    "config.json": "edac7703329133edfc53e46ac0081835144c99d7eebf28b71c732694d435224d",
+    "tokenizer.json": "a5d85b6dcc535e6b93115a9ef287e6132fdbf30270da6218194ba742261173c7",
+    "tokenizer_config.json": "7b501e639b4d107a23effbe30390ee33d553f722467f7ac8e2744d7ff5d3a7d5",
+    "preprocessor_config.json": "27225450ac9c6529872ee1924fcb0962ff5634834f817040f444118116f4e516",
+    "chat_template.jinja": "36e042fe45641f067b1f2381fcc8955d10d956a3ed333ecdf7f7eb0916f68956"
+  },
+  "trainer_sha256": "02e0dd47c933ce98e15508d35bfefeb9f4e72b95990958b0e8dd795f9bd12903",
+  "order_sha256": "08b40f5be4d75e606edb23ebf98e3efdde150b7263518a4f66a929e70803ecbf",
+  "output": "/gpfs/scrubbed/dan29/lora_dpo_arms/runs/matched-r16a32-lr5e-5-dpo-b0.5",
+  "world_size": 2,
+  "beta": 0.5,
+  "gradient_accumulation_per_rank": 16,
+  "code_hashes": {
+    "train_arm_joint_sft.py": "02e0dd47c933ce98e15508d35bfefeb9f4e72b95990958b0e8dd795f9bd12903",
+    "train_arm_c2.py": "63a57d3ae05e39b25b7d1b207ecd7b46cc6814d0461c6845e047ff8c5a4e29ad"
+  },
+  "full_response_score": "sum",
+  "auxiliary_sft_weight": 0.0,
+  "reference": "OpenWebRL-4B-SFT (pi0) with adapters disabled",
+  "dropout_policy": "train: 0.05; validation/reference/rehearsal: disabled",
+  "eval_shards_sha256": "f5bce39eaa9137fdb870081ddc607799142ee5b7bee618b6432c0b17488ee4ff",
+  "handoff_hashes": {
+    "merge_arm_c2_student.py": "ed82948f8ceef7935d0e82df8fa5c1777d1e36a99195bb1c5b7366e3a0bedc11",
+    "run_arm_full300_checkpoint_eval.py": "ca5f0e402b9ff14ad06f0fd76d2e1dd35b0aef73499bc6c9e404c90a5a2bd254"
+  },
+  "trainer_copy_sha256": "2fb3de03eb098485ea1404c169004440da8b6d254e5a110e5640175b10b622fa",
+  "derived_from": "/gpfs/scrubbed/zixianma/openwebrl-runtime/arm-reproduction/runs/joint-v2-dpo-2gpu-r2/predecessor-config.json"
+}

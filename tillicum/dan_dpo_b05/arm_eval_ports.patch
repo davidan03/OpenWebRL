@@ -1,0 +1,15 @@
+diff --git a/openwebrl/arm_eval.py b/openwebrl/arm_eval.py
+index 0b70cf1..656c19a 100644
+--- a/openwebrl/arm_eval.py
++++ b/openwebrl/arm_eval.py
+@@ -43,8 +43,8 @@ async def run(args):
+     os.environ.setdefault("JUDGE_API_BASE", "https://api.openai.com/v1")
+     os.environ["SLIME_BROWSER_ENV_MODE"] = "local_process"
+     os.environ["SLIME_BROWSER_LOCAL_PROCESS_LOG_DIR"] = str(Path(args.output) / "browser_logs")
+-    os.environ["SLIME_BROWSER_LOCAL_PROCESS_PORT_START"] = "19200"
+-    os.environ["SLIME_BROWSER_LOCAL_PROCESS_PORT_END"] = "19399"
++    os.environ.setdefault("SLIME_BROWSER_LOCAL_PROCESS_PORT_START", "19200")  # Tillicum: shared nodes
++    os.environ.setdefault("SLIME_BROWSER_LOCAL_PROCESS_PORT_END", "19399")
+     os.environ["SLIME_BROWSER_LOCAL_PROCESS_MAX_PROCESSES"] = str(args.parallel)
+     output = Path(args.output)
+     output.mkdir(parents=True, exist_ok=True)
