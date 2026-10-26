@@ -7,21 +7,23 @@ of tool calls). Everything else is your RPO recipe; only β (0.1 → 0.5) and th
 
 | Online-Mind2Web, 300 tasks, gpt-5.6-terra judge, Zixian's protocol | Runs (successes/300) | Mean | vs base, 95% CI |
 |---|---|---|---|
-| Base OpenWebRL-4B-SFT (your 4 runs, 10-20 to 10-23) | 90, 88, 88, 89 | 88.75 (29.6%) | – |
-| **DPO β 0.5, matched pairs** | 106, 87, 96 | **96.33 (32.1%)** | +2.5 pts [−0.7, +5.9], p = 0.14 |
-| RPO β 0.1, matched pairs (3 our runs + 3 yours) | 107, 89, 96, 107, 95, 90 | 97.33 (32.4%) | +2.9 pts [−0.1, +5.8], p = 0.06 |
-| RPO β 0.1, on-policy local-ARM pairs only | 106, 96, 105 | 102.33 (34.1%) | +4.5 pts [+1.0, +8.1], p = 0.01 |
-| SFT on successful episodes, no ARM | 83, 86, 75 | 81.33 (27.1%) | −2.5 pts [−5.4, +0.4], p = 0.09 |
+| Base OpenWebRL-4B-SFT (your 4 runs 10-20 to 10-23 + our run 10-26) | 90, 88, 88, 89, 80 | 87.0 (29.0%) | – |
+| **DPO β 0.5, matched pairs** | 106, 87, 96 | **96.33 (32.1%)** | +3.1 pts [+0.1, +6.2], p = 0.045 |
+| RPO β 0.1, matched pairs (3 our runs + 3 yours) | 107, 89, 96, 107, 95, 90 | 97.33 (32.4%) | +3.4 pts [+0.8, +6.1], p = 0.008 |
+| RPO β 0.1, on-policy local-ARM pairs only | 106, 96, 105 | 102.33 (34.1%) | +5.1 pts [+1.8, +8.5], p = 0.002 |
+| SFT on successful episodes, no ARM | 83, 86, 75 | 81.33 (27.1%) | −1.9 pts [−4.5, +0.7], p = 0.16 |
 
 Invalid episodes count as failures. CIs and p-values come from a bootstrap over the 300 tasks
 on per-task means. Paired: DPO β 0.5 − no-ARM SFT = +5.0 pts [+1.8, +8.2], p = 0.002;
 DPO β 0.5 − on-policy RPO = −2.0 pts [−5.3, +1.2], p = 0.23 (tie).
 
-**Dates matter here.** DPO run 1 (106) ran on 10-23; runs 2 and 3 (87, 96) on 10-26. The
-base runs are all from 10-20 to 10-23. Re-judging run 1's episodes with terra on 10-26 gives
-102 (95.8% agreement with the live verdicts), so the judge is stable; the drop is in the
-episodes themselves. A same-day base run (job 390345) is in progress and this table will be
-updated with it.
+**Dates matter here.** DPO run 1 (106) ran on 10-23; runs 2 and 3 (87, 96) on 10-26. A base
+run on 10-26, same script and judge (job 390345), scored **80**, against 88.75 for the four
+earlier base runs. Against that same-day base, DPO runs 2 and 3 are +3.8 pts [−0.7, +8.3],
+p = 0.11. Re-judging run 1's episodes with terra on 10-26 gives 102 (95.8% agreement with the
+live verdicts), so the judge is stable; the day-to-day drift is in the episodes. Every arm's
+first run was its best (first runs average 106.5, later runs 94.3, over four arms), so treat
+single runs as noisy.
 
 ## Settings
 
