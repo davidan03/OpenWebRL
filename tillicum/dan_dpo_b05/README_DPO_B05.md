@@ -10,7 +10,7 @@ of tool calls). Everything else is your RPO recipe; only β (0.1 → 0.5) and th
 | Base OpenWebRL-4B-SFT (your 4 runs 10-20 to 10-23 + our run 10-26) | 90, 88, 88, 89, 80 | 87.0 (29.0%) | – |
 | **DPO β 0.5, matched pairs** | 106, 87, 96 | **96.33 (32.1%)** | +3.1 pts [+0.1, +6.2], p = 0.045 |
 | RPO β 0.1, matched pairs (3 our runs + 3 yours) | 107, 89, 96, 107, 95, 90 | 97.33 (32.4%) | +3.4 pts [+0.8, +6.1], p = 0.008 |
-| RPO β 0.1, on-policy local-ARM pairs only | 106, 96, 105 | 102.33 (34.1%) | +5.1 pts [+1.8, +8.5], p = 0.002 |
+| RPO β 0.1, on-policy local-ARM pairs only ([data](https://huggingface.co/datasets/davidan03/openwebrl-arm-onpolicy-pairs)) | 106, 96, 105 | 102.33 (34.1%) | +5.1 pts [+1.8, +8.5], p = 0.002 |
 | SFT on successful episodes, no ARM | 83, 86, 75 | 81.33 (27.1%) | −1.9 pts [−4.5, +0.7], p = 0.16 |
 
 Invalid episodes count as failures. CIs and p-values come from a bootstrap over the 300 tasks
