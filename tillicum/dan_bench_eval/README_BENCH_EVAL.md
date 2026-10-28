@@ -67,6 +67,47 @@ sglang   --dtype bfloat16 --tp 1 --mem-fraction-static 0.45 --context-length 327
 - **Stats:** per-task mean over the 3 runs, checkpoint minus base. 95% CI from a task bootstrap, p from a sign-flip
   permutation test.
 
+## Valid / invalid, and how our subsets differ from yours
+
+**The `valid` flag is the same for both of us.** It is set per episode by `arm_eval.py` (identical in your `0b2fc0b`
+and in Zixian's `299f03f`, which we use for OM2W), and we never change or re-derive it:
+
+```python
+record["valid"] = record.get("reward") is not None and "ABORTED" not in record.get("status", "")
+if record["metadata"].get("judge_invalid") or record["metadata"].get("judge_timeout"):
+    record["valid"] = False
+# any exception while evaluating the task -> {"reward": None, "valid": False}
+```
+
+| an episode is invalid when | set in | typical `terminate_reason` / sign |
+|---|---|---|
+| it was aborted | `generate_browser.py` (status ABORTED) | `env_step_error` (browser step failed or hung), `generation_error: ...` (actor server error, e.g. HTTP 400, or the 1,800 s task timeout), `generation_abort` |
+| the judge gave no usable verdict (`reward` is None) | `eval/reward_webvoyager.py`, `reward_deepshop.py` | log line `Judge response missing SUCCESS/NOT SUCCESS` (judge wrote free text) |
+| the judge call failed or timed out | `reward_browser.py` | `metadata.judge_invalid` / `metadata.judge_timeout` |
+| the task crashed before finishing | `arm_eval.py` except branch | result has `error_type`, no trajectory (e.g. the start page never loaded) |
+
+Everything else is valid, including ordinary failures: a wrong final answer, hitting the 30-step limit
+(`max_steps_exhausted`), or ending the episode on a block page. Blocked episodes are therefore usually *valid
+failures*, as your README notes.
+
+**Where we differ is in how the subsets are built and tested:**
+
+| | your README_BENCHMARKS.md (10-22) | ours (this README) |
+|---|---|---|
+| runs per model | 1 | 3, each base run in the same job as one checkpoint run |
+| "valid" subset | tasks valid in **both** models' single runs (n 565 / 143) | tasks valid in **all 6 runs**, decided jointly: one invalid episode in any run drops the task for both arms (n 539 / 123) |
+| "not blocked" subset | keyword match on tool responses **and the final answer** (403, blocked, captcha, access denied, unusual traffic, robot), not blocked in both (n 417 / 128) | block page seen in the **observations only** (active-tab URL + title, list under Metrics), none in any of the 6 runs (n 402 / 15) |
+| test | two-sided sign test on discordant tasks | per-task 3-run mean difference: task bootstrap CI + sign-flip permutation p |
+| "valid only" rate | `success_rate_valid` per run | not used as a headline |
+
+Two consequences:
+- **Keyword blocking depends on wording.** Reading the final answer means the filter depends on how each model talks.
+  In our WebVoyager runs it flagged base on 112–118 tasks against 76–84 for the checkpoint, while real block pages
+  (observations) were about equal (122–124 vs 131–140 episodes with the full list). So keyword-"unblocked" subsets
+  can move a paired difference either way.
+- **Our subsets are smaller and stricter.** They are joint over 6 runs, so they are smaller than any one run's
+  valid count, and the same tasks are compared in every run.
+
 ## Results: on-policy local-ARM RPO vs base, n=3 each, same-job pairs (10-27)
 
 On-policy RPO = RPO β 0.1 on on-policy local-ARM pairs only ([data](https://huggingface.co/datasets/davidan03/openwebrl-arm-onpolicy-pairs)), see [README_DPO_B05.md](../dan_dpo_b05/README_DPO_B05.md).
