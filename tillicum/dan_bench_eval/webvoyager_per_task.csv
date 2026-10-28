@@ -1,0 +1,3571 @@
+task_id,arm,run,success,valid,block_page
+Allrecipes--0,base,1,1,1,0
+Allrecipes--1,base,1,1,1,0
+Allrecipes--10,base,1,0,1,0
+Allrecipes--11,base,1,0,1,0
+Allrecipes--12,base,1,0,1,0
+Allrecipes--13,base,1,0,1,0
+Allrecipes--14,base,1,0,1,0
+Allrecipes--15,base,1,0,1,0
+Allrecipes--17,base,1,0,1,0
+Allrecipes--18,base,1,0,1,0
+Allrecipes--2,base,1,1,1,0
+Allrecipes--20,base,1,0,1,0
+Allrecipes--21,base,1,0,1,0
+Allrecipes--22,base,1,0,1,0
+Allrecipes--24,base,1,0,1,0
+Allrecipes--25,base,1,0,1,0
+Allrecipes--26,base,1,0,1,0
+Allrecipes--27,base,1,0,1,0
+Allrecipes--28,base,1,0,1,0
+Allrecipes--29,base,1,0,1,0
+Allrecipes--31,base,1,0,1,0
+Allrecipes--32,base,1,0,1,0
+Allrecipes--33,base,1,0,1,0
+Allrecipes--34,base,1,0,1,0
+Allrecipes--35,base,1,0,1,0
+Allrecipes--36,base,1,0,1,0
+Allrecipes--37,base,1,0,1,0
+Allrecipes--38,base,1,0,1,0
+Allrecipes--39,base,1,0,1,1
+Allrecipes--4,base,1,1,1,1
+Allrecipes--40,base,1,0,1,0
+Allrecipes--41,base,1,0,1,0
+Allrecipes--42,base,1,0,1,0
+Allrecipes--43,base,1,0,1,0
+Allrecipes--44,base,1,0,1,0
+Allrecipes--5,base,1,0,1,0
+Allrecipes--6,base,1,1,1,0
+Allrecipes--7,base,1,0,1,0
+Allrecipes--8,base,1,0,1,0
+Allrecipes--9,base,1,0,0,1
+Amazon--0,base,1,1,1,0
+Amazon--1,base,1,0,1,1
+Amazon--10,base,1,1,1,0
+Amazon--11,base,1,0,1,0
+Amazon--12,base,1,0,1,1
+Amazon--13,base,1,1,1,0
+Amazon--14,base,1,1,1,0
+Amazon--15,base,1,0,1,1
+Amazon--17,base,1,0,1,0
+Amazon--18,base,1,1,1,0
+Amazon--2,base,1,1,1,0
+Amazon--20,base,1,0,1,0
+Amazon--21,base,1,1,1,0
+Amazon--22,base,1,0,1,1
+Amazon--23,base,1,1,1,0
+Amazon--24,base,1,1,1,0
+Amazon--25,base,1,0,1,1
+Amazon--26,base,1,1,1,0
+Amazon--27,base,1,1,1,0
+Amazon--28,base,1,0,1,1
+Amazon--29,base,1,1,1,0
+Amazon--3,base,1,1,1,0
+Amazon--30,base,1,0,1,0
+Amazon--31,base,1,0,1,0
+Amazon--32,base,1,0,1,1
+Amazon--33,base,1,0,1,1
+Amazon--34,base,1,0,1,1
+Amazon--35,base,1,1,1,0
+Amazon--36,base,1,1,1,0
+Amazon--37,base,1,1,1,0
+Amazon--38,base,1,0,1,1
+Amazon--39,base,1,0,1,1
+Amazon--40,base,1,1,1,0
+Amazon--5,base,1,0,1,1
+Amazon--6,base,1,0,1,1
+Amazon--7,base,1,0,1,0
+Amazon--8,base,1,0,1,1
+Amazon--9,base,1,1,1,0
+Apple--0,base,1,0,1,0
+Apple--10,base,1,1,1,0
+Apple--11,base,1,0,1,0
+Apple--12,base,1,0,1,0
+Apple--13,base,1,1,1,0
+Apple--15,base,1,0,1,0
+Apple--16,base,1,0,1,0
+Apple--17,base,1,0,1,0
+Apple--18,base,1,0,1,0
+Apple--19,base,1,0,1,0
+Apple--21,base,1,1,1,0
+Apple--23,base,1,1,1,0
+Apple--24,base,1,1,1,0
+Apple--25,base,1,1,1,0
+Apple--26,base,1,1,1,0
+Apple--27,base,1,1,1,0
+Apple--28,base,1,1,1,0
+Apple--29,base,1,1,1,0
+Apple--3,base,1,0,1,0
+Apple--30,base,1,0,1,0
+Apple--31,base,1,1,1,0
+Apple--33,base,1,0,1,0
+Apple--34,base,1,0,1,0
+Apple--35,base,1,0,1,0
+Apple--36,base,1,0,1,0
+Apple--38,base,1,1,1,0
+Apple--39,base,1,1,1,0
+Apple--40,base,1,1,1,0
+Apple--5,base,1,0,1,0
+Apple--6,base,1,1,1,0
+Apple--8,base,1,1,1,0
+Apple--9,base,1,0,1,0
+ArXiv--0,base,1,1,1,0
+ArXiv--1,base,1,0,1,0
+ArXiv--10,base,1,1,1,0
+ArXiv--12,base,1,1,1,0
+ArXiv--13,base,1,0,1,0
+ArXiv--14,base,1,0,1,0
+ArXiv--15,base,1,0,1,0
+ArXiv--16,base,1,0,1,0
+ArXiv--17,base,1,0,1,1
+ArXiv--18,base,1,0,1,0
+ArXiv--19,base,1,1,1,0
+ArXiv--2,base,1,1,1,0
+ArXiv--20,base,1,0,1,0
+ArXiv--21,base,1,0,1,0
+ArXiv--22,base,1,1,1,0
+ArXiv--23,base,1,0,1,0
+ArXiv--24,base,1,0,1,0
+ArXiv--25,base,1,1,1,0
+ArXiv--26,base,1,0,1,0
+ArXiv--27,base,1,1,1,0
+ArXiv--28,base,1,0,1,0
+ArXiv--29,base,1,0,1,0
+ArXiv--3,base,1,1,1,0
+ArXiv--30,base,1,1,1,0
+ArXiv--31,base,1,0,1,0
+ArXiv--32,base,1,1,1,0
+ArXiv--33,base,1,1,1,0
+ArXiv--34,base,1,0,1,0
+ArXiv--35,base,1,1,1,0
+ArXiv--36,base,1,0,1,0
+ArXiv--37,base,1,1,1,0
+ArXiv--38,base,1,1,1,0
+ArXiv--39,base,1,0,1,1
+ArXiv--4,base,1,0,1,0
+ArXiv--40,base,1,0,1,0
+ArXiv--41,base,1,0,1,0
+ArXiv--42,base,1,0,1,1
+ArXiv--5,base,1,0,1,0
+ArXiv--6,base,1,0,1,0
+ArXiv--7,base,1,1,1,0
+ArXiv--8,base,1,1,1,0
+ArXiv--9,base,1,1,1,0
+BBC News--0,base,1,1,1,0
+BBC News--1,base,1,0,0,0
+BBC News--11,base,1,1,1,0
+BBC News--12,base,1,0,1,0
+BBC News--13,base,1,0,1,0
+BBC News--15,base,1,1,1,0
+BBC News--17,base,1,0,1,0
+BBC News--19,base,1,1,1,0
+BBC News--20,base,1,1,1,0
+BBC News--22,base,1,0,1,0
+BBC News--23,base,1,1,1,0
+BBC News--24,base,1,0,1,0
+BBC News--25,base,1,1,1,0
+BBC News--27,base,1,0,1,0
+BBC News--28,base,1,0,1,0
+BBC News--3,base,1,1,1,0
+BBC News--30,base,1,0,1,0
+BBC News--31,base,1,1,1,0
+BBC News--32,base,1,0,1,0
+BBC News--34,base,1,1,1,0
+BBC News--35,base,1,1,1,0
+BBC News--36,base,1,0,0,0
+BBC News--37,base,1,1,1,0
+BBC News--38,base,1,0,1,0
+BBC News--39,base,1,1,1,0
+BBC News--4,base,1,1,1,0
+BBC News--40,base,1,0,1,0
+BBC News--41,base,1,0,1,0
+BBC News--6,base,1,1,1,0
+BBC News--7,base,1,1,1,0
+BBC News--8,base,1,0,1,0
+BBC News--9,base,1,0,1,0
+Booking--0,base,1,0,1,0
+Booking--1,base,1,0,1,0
+Booking--11,base,1,0,1,0
+Booking--12,base,1,0,1,0
+Booking--13,base,1,0,1,0
+Booking--14,base,1,0,1,0
+Booking--15,base,1,0,1,0
+Booking--16,base,1,1,1,0
+Booking--17,base,1,0,1,0
+Booking--18,base,1,0,1,0
+Booking--19,base,1,0,1,0
+Booking--2,base,1,0,1,0
+Booking--20,base,1,0,1,0
+Booking--21,base,1,0,1,0
+Booking--22,base,1,0,1,0
+Booking--23,base,1,0,1,0
+Booking--24,base,1,0,1,0
+Booking--25,base,1,0,1,0
+Booking--26,base,1,0,1,0
+Booking--27,base,1,0,1,0
+Booking--28,base,1,0,1,0
+Booking--29,base,1,0,1,0
+Booking--3,base,1,0,1,0
+Booking--30,base,1,0,1,0
+Booking--31,base,1,0,1,0
+Booking--32,base,1,0,1,0
+Booking--33,base,1,1,1,0
+Booking--34,base,1,0,1,0
+Booking--35,base,1,1,1,0
+Booking--36,base,1,0,1,0
+Booking--37,base,1,0,1,0
+Booking--38,base,1,0,1,0
+Booking--39,base,1,0,1,0
+Booking--4,base,1,1,1,0
+Booking--40,base,1,0,1,0
+Booking--41,base,1,1,1,0
+Booking--42,base,1,0,1,0
+Booking--43,base,1,1,1,0
+Booking--5,base,1,0,1,0
+Booking--6,base,1,0,1,0
+Booking--7,base,1,0,1,0
+Booking--8,base,1,0,1,0
+Booking--9,base,1,0,1,0
+Cambridge Dictionary--0,base,1,0,1,1
+Cambridge Dictionary--1,base,1,0,1,1
+Cambridge Dictionary--10,base,1,0,1,1
+Cambridge Dictionary--11,base,1,0,1,1
+Cambridge Dictionary--12,base,1,0,1,1
+Cambridge Dictionary--13,base,1,0,1,1
+Cambridge Dictionary--14,base,1,0,1,1
+Cambridge Dictionary--15,base,1,0,1,1
+Cambridge Dictionary--16,base,1,0,1,1
+Cambridge Dictionary--17,base,1,0,0,1
+Cambridge Dictionary--18,base,1,0,1,1
+Cambridge Dictionary--19,base,1,0,1,1
+Cambridge Dictionary--2,base,1,0,1,1
+Cambridge Dictionary--20,base,1,0,1,1
+Cambridge Dictionary--21,base,1,0,1,1
+Cambridge Dictionary--22,base,1,0,1,1
+Cambridge Dictionary--23,base,1,0,1,1
+Cambridge Dictionary--24,base,1,0,0,1
+Cambridge Dictionary--25,base,1,0,1,1
+Cambridge Dictionary--26,base,1,0,1,1
+Cambridge Dictionary--27,base,1,0,1,1
+Cambridge Dictionary--28,base,1,0,1,1
+Cambridge Dictionary--29,base,1,0,1,1
+Cambridge Dictionary--3,base,1,1,1,1
+Cambridge Dictionary--30,base,1,0,1,1
+Cambridge Dictionary--31,base,1,0,1,1
+Cambridge Dictionary--32,base,1,0,1,1
+Cambridge Dictionary--33,base,1,0,1,1
+Cambridge Dictionary--34,base,1,0,1,1
+Cambridge Dictionary--35,base,1,0,1,1
+Cambridge Dictionary--36,base,1,0,1,1
+Cambridge Dictionary--37,base,1,0,1,1
+Cambridge Dictionary--38,base,1,0,1,1
+Cambridge Dictionary--39,base,1,0,1,1
+Cambridge Dictionary--4,base,1,0,1,1
+Cambridge Dictionary--40,base,1,1,1,1
+Cambridge Dictionary--41,base,1,0,1,1
+Cambridge Dictionary--42,base,1,0,1,1
+Cambridge Dictionary--5,base,1,1,1,1
+Cambridge Dictionary--6,base,1,0,1,1
+Cambridge Dictionary--7,base,1,0,1,1
+Cambridge Dictionary--8,base,1,0,1,1
+Cambridge Dictionary--9,base,1,0,1,1
+Coursera--0,base,1,0,1,0
+Coursera--1,base,1,1,1,0
+Coursera--10,base,1,1,1,0
+Coursera--11,base,1,1,1,0
+Coursera--12,base,1,1,1,0
+Coursera--13,base,1,1,1,0
+Coursera--14,base,1,1,1,0
+Coursera--15,base,1,1,1,0
+Coursera--16,base,1,1,1,0
+Coursera--18,base,1,1,1,0
+Coursera--19,base,1,1,1,0
+Coursera--2,base,1,1,1,0
+Coursera--20,base,1,1,1,0
+Coursera--21,base,1,1,1,0
+Coursera--22,base,1,1,1,0
+Coursera--23,base,1,1,1,0
+Coursera--24,base,1,0,1,0
+Coursera--25,base,1,1,1,0
+Coursera--26,base,1,1,1,0
+Coursera--27,base,1,1,1,0
+Coursera--29,base,1,0,1,0
+Coursera--3,base,1,0,1,0
+Coursera--30,base,1,1,1,0
+Coursera--31,base,1,1,1,0
+Coursera--32,base,1,1,1,0
+Coursera--33,base,1,1,1,0
+Coursera--34,base,1,0,1,0
+Coursera--35,base,1,1,1,0
+Coursera--36,base,1,0,1,0
+Coursera--37,base,1,1,1,0
+Coursera--38,base,1,0,1,0
+Coursera--39,base,1,1,1,0
+Coursera--4,base,1,1,1,0
+Coursera--40,base,1,1,1,0
+Coursera--41,base,1,1,1,0
+Coursera--5,base,1,1,1,0
+Coursera--6,base,1,0,1,0
+Coursera--7,base,1,1,1,0
+Coursera--8,base,1,0,1,0
+Coursera--9,base,1,1,1,0
+ESPN--0,base,1,1,1,0
+ESPN--1,base,1,1,1,0
+ESPN--10,base,1,1,1,0
+ESPN--11,base,1,0,1,0
+ESPN--12,base,1,1,1,0
+ESPN--13,base,1,1,1,0
+ESPN--14,base,1,0,1,0
+ESPN--15,base,1,1,1,0
+ESPN--16,base,1,0,1,0
+ESPN--17,base,1,0,1,0
+ESPN--18,base,1,1,1,0
+ESPN--19,base,1,1,1,0
+ESPN--20,base,1,0,1,0
+ESPN--22,base,1,1,1,0
+ESPN--23,base,1,0,1,0
+ESPN--24,base,1,1,1,0
+ESPN--25,base,1,0,1,0
+ESPN--27,base,1,1,1,0
+ESPN--28,base,1,1,1,0
+ESPN--29,base,1,1,1,0
+ESPN--3,base,1,1,1,0
+ESPN--30,base,1,0,1,0
+ESPN--31,base,1,1,1,0
+ESPN--32,base,1,0,1,0
+ESPN--33,base,1,0,1,0
+ESPN--34,base,1,1,1,0
+ESPN--35,base,1,0,1,0
+ESPN--36,base,1,1,1,0
+ESPN--37,base,1,1,1,0
+ESPN--39,base,1,1,1,0
+ESPN--40,base,1,1,1,1
+ESPN--41,base,1,1,1,0
+ESPN--5,base,1,0,1,0
+ESPN--6,base,1,0,1,0
+ESPN--7,base,1,0,1,0
+ESPN--8,base,1,1,1,0
+ESPN--9,base,1,1,1,0
+GitHub--0,base,1,1,1,0
+GitHub--1,base,1,1,1,0
+GitHub--10,base,1,1,1,0
+GitHub--11,base,1,0,1,0
+GitHub--12,base,1,1,1,0
+GitHub--13,base,1,1,1,0
+GitHub--14,base,1,0,1,0
+GitHub--15,base,1,1,1,0
+GitHub--16,base,1,1,1,0
+GitHub--17,base,1,1,1,0
+GitHub--18,base,1,1,1,0
+GitHub--19,base,1,0,1,0
+GitHub--2,base,1,0,1,0
+GitHub--20,base,1,1,1,0
+GitHub--21,base,1,1,1,0
+GitHub--22,base,1,0,1,0
+GitHub--23,base,1,1,1,0
+GitHub--24,base,1,1,1,0
+GitHub--25,base,1,0,1,0
+GitHub--26,base,1,1,1,0
+GitHub--27,base,1,1,1,0
+GitHub--28,base,1,0,1,0
+GitHub--29,base,1,1,1,0
+GitHub--3,base,1,1,1,0
+GitHub--30,base,1,0,1,0
+GitHub--31,base,1,1,1,0
+GitHub--32,base,1,1,1,0
+GitHub--33,base,1,1,1,0
+GitHub--34,base,1,1,1,0
+GitHub--35,base,1,1,1,0
+GitHub--36,base,1,0,1,0
+GitHub--37,base,1,0,1,0
+GitHub--38,base,1,0,1,0
+GitHub--39,base,1,1,1,0
+GitHub--4,base,1,0,1,0
+GitHub--40,base,1,0,1,0
+GitHub--5,base,1,0,1,0
+GitHub--6,base,1,0,1,0
+GitHub--7,base,1,1,1,0
+GitHub--8,base,1,1,1,0
+GitHub--9,base,1,0,1,0
+Google Flights--0,base,1,0,1,0
+Google Flights--1,base,1,1,1,0
+Google Flights--10,base,1,0,1,0
+Google Flights--11,base,1,0,1,0
+Google Flights--12,base,1,0,1,0
+Google Flights--13,base,1,1,1,0
+Google Flights--14,base,1,0,1,0
+Google Flights--15,base,1,1,1,0
+Google Flights--16,base,1,1,1,0
+Google Flights--17,base,1,0,1,0
+Google Flights--18,base,1,0,1,0
+Google Flights--19,base,1,1,1,0
+Google Flights--2,base,1,1,1,0
+Google Flights--20,base,1,0,1,0
+Google Flights--21,base,1,0,1,0
+Google Flights--22,base,1,1,1,0
+Google Flights--23,base,1,0,1,0
+Google Flights--24,base,1,1,1,0
+Google Flights--25,base,1,1,1,0
+Google Flights--26,base,1,1,1,0
+Google Flights--27,base,1,0,1,0
+Google Flights--28,base,1,0,1,0
+Google Flights--29,base,1,1,1,0
+Google Flights--3,base,1,0,1,0
+Google Flights--30,base,1,1,1,0
+Google Flights--31,base,1,1,1,0
+Google Flights--32,base,1,0,1,0
+Google Flights--33,base,1,1,1,0
+Google Flights--34,base,1,0,1,0
+Google Flights--35,base,1,0,1,0
+Google Flights--36,base,1,0,1,0
+Google Flights--37,base,1,0,1,0
+Google Flights--38,base,1,1,1,0
+Google Flights--39,base,1,0,1,0
+Google Flights--4,base,1,0,1,0
+Google Flights--40,base,1,1,1,0
+Google Flights--41,base,1,0,1,0
+Google Flights--5,base,1,0,1,0
+Google Flights--6,base,1,0,1,0
+Google Flights--8,base,1,1,1,0
+Google Flights--9,base,1,1,1,0
+Google Map--0,base,1,0,1,0
+Google Map--1,base,1,1,1,0
+Google Map--10,base,1,1,1,0
+Google Map--11,base,1,1,1,0
+Google Map--12,base,1,0,1,0
+Google Map--13,base,1,0,1,0
+Google Map--14,base,1,1,1,0
+Google Map--15,base,1,0,1,0
+Google Map--16,base,1,1,1,0
+Google Map--17,base,1,1,1,0
+Google Map--18,base,1,0,1,0
+Google Map--19,base,1,0,1,0
+Google Map--2,base,1,1,1,0
+Google Map--20,base,1,1,1,0
+Google Map--21,base,1,1,1,0
+Google Map--22,base,1,1,1,0
+Google Map--23,base,1,0,1,0
+Google Map--24,base,1,1,1,0
+Google Map--25,base,1,1,1,0
+Google Map--27,base,1,0,1,0
+Google Map--28,base,1,0,1,0
+Google Map--29,base,1,1,1,0
+Google Map--3,base,1,1,1,0
+Google Map--30,base,1,0,1,0
+Google Map--31,base,1,0,1,0
+Google Map--32,base,1,0,1,0
+Google Map--33,base,1,1,1,0
+Google Map--34,base,1,0,1,0
+Google Map--35,base,1,1,1,0
+Google Map--36,base,1,0,1,0
+Google Map--37,base,1,1,1,0
+Google Map--38,base,1,1,1,0
+Google Map--39,base,1,1,1,0
+Google Map--4,base,1,1,1,0
+Google Map--40,base,1,0,1,0
+Google Map--5,base,1,0,1,0
+Google Map--6,base,1,1,1,0
+Google Map--7,base,1,1,1,0
+Google Map--8,base,1,1,1,0
+Google Map--9,base,1,0,1,0
+Google Search--0,base,1,0,1,1
+Google Search--1,base,1,1,1,1
+Google Search--10,base,1,1,1,1
+Google Search--11,base,1,0,1,0
+Google Search--12,base,1,0,1,1
+Google Search--13,base,1,0,1,1
+Google Search--14,base,1,0,1,1
+Google Search--15,base,1,0,1,0
+Google Search--16,base,1,0,1,1
+Google Search--17,base,1,0,1,1
+Google Search--18,base,1,1,1,1
+Google Search--19,base,1,1,1,0
+Google Search--2,base,1,0,1,1
+Google Search--20,base,1,0,1,1
+Google Search--21,base,1,1,1,1
+Google Search--22,base,1,0,0,1
+Google Search--23,base,1,0,1,1
+Google Search--24,base,1,0,1,1
+Google Search--25,base,1,0,1,1
+Google Search--26,base,1,0,1,1
+Google Search--27,base,1,0,1,1
+Google Search--28,base,1,0,1,1
+Google Search--29,base,1,0,1,1
+Google Search--3,base,1,0,1,1
+Google Search--30,base,1,1,1,1
+Google Search--31,base,1,0,1,1
+Google Search--32,base,1,0,1,1
+Google Search--33,base,1,1,1,1
+Google Search--34,base,1,0,1,1
+Google Search--35,base,1,0,0,1
+Google Search--36,base,1,0,0,1
+Google Search--37,base,1,0,1,1
+Google Search--38,base,1,0,1,1
+Google Search--39,base,1,0,1,1
+Google Search--4,base,1,0,1,1
+Google Search--40,base,1,0,1,1
+Google Search--41,base,1,0,1,1
+Google Search--42,base,1,0,1,1
+Google Search--5,base,1,1,1,1
+Google Search--6,base,1,0,1,1
+Google Search--7,base,1,1,1,1
+Google Search--8,base,1,1,1,0
+Google Search--9,base,1,0,1,1
+Huggingface--0,base,1,1,1,0
+Huggingface--11,base,1,1,1,0
+Huggingface--12,base,1,0,1,1
+Huggingface--13,base,1,0,1,1
+Huggingface--14,base,1,1,1,0
+Huggingface--15,base,1,0,1,0
+Huggingface--16,base,1,0,1,0
+Huggingface--17,base,1,1,1,0
+Huggingface--18,base,1,1,1,0
+Huggingface--19,base,1,1,1,0
+Huggingface--2,base,1,1,1,0
+Huggingface--21,base,1,0,1,0
+Huggingface--22,base,1,0,1,0
+Huggingface--24,base,1,0,1,1
+Huggingface--25,base,1,0,1,1
+Huggingface--26,base,1,1,1,0
+Huggingface--27,base,1,0,1,1
+Huggingface--28,base,1,0,0,1
+Huggingface--29,base,1,0,1,1
+Huggingface--3,base,1,1,1,0
+Huggingface--30,base,1,0,1,1
+Huggingface--31,base,1,0,1,1
+Huggingface--33,base,1,1,1,1
+Huggingface--34,base,1,0,1,1
+Huggingface--35,base,1,0,1,1
+Huggingface--36,base,1,0,1,1
+Huggingface--37,base,1,1,1,1
+Huggingface--38,base,1,0,1,1
+Huggingface--39,base,1,1,1,1
+Huggingface--4,base,1,1,1,0
+Huggingface--40,base,1,1,1,1
+Huggingface--41,base,1,0,1,1
+Huggingface--42,base,1,1,1,1
+Huggingface--5,base,1,1,1,0
+Huggingface--7,base,1,0,1,0
+Huggingface--8,base,1,1,1,0
+Huggingface--9,base,1,1,1,0
+Wolfram Alpha--0,base,1,1,1,0
+Wolfram Alpha--1,base,1,0,1,0
+Wolfram Alpha--10,base,1,1,1,0
+Wolfram Alpha--11,base,1,0,1,0
+Wolfram Alpha--12,base,1,1,1,0
+Wolfram Alpha--13,base,1,0,1,0
+Wolfram Alpha--14,base,1,0,1,0
+Wolfram Alpha--15,base,1,1,1,0
+Wolfram Alpha--16,base,1,0,1,0
+Wolfram Alpha--17,base,1,1,1,0
+Wolfram Alpha--18,base,1,0,1,0
+Wolfram Alpha--19,base,1,1,1,0
+Wolfram Alpha--2,base,1,1,1,0
+Wolfram Alpha--20,base,1,1,1,0
+Wolfram Alpha--21,base,1,1,1,0
+Wolfram Alpha--22,base,1,1,1,0
+Wolfram Alpha--23,base,1,1,1,0
+Wolfram Alpha--24,base,1,1,1,0
+Wolfram Alpha--25,base,1,1,1,0
+Wolfram Alpha--26,base,1,1,1,0
+Wolfram Alpha--27,base,1,0,1,0
+Wolfram Alpha--28,base,1,0,1,0
+Wolfram Alpha--29,base,1,1,1,0
+Wolfram Alpha--3,base,1,1,1,0
+Wolfram Alpha--30,base,1,0,1,0
+Wolfram Alpha--31,base,1,1,1,0
+Wolfram Alpha--32,base,1,0,1,0
+Wolfram Alpha--33,base,1,1,1,0
+Wolfram Alpha--34,base,1,1,1,0
+Wolfram Alpha--35,base,1,1,1,0
+Wolfram Alpha--36,base,1,1,1,0
+Wolfram Alpha--37,base,1,1,1,0
+Wolfram Alpha--38,base,1,1,1,0
+Wolfram Alpha--39,base,1,1,1,0
+Wolfram Alpha--4,base,1,0,1,0
+Wolfram Alpha--40,base,1,1,1,0
+Wolfram Alpha--41,base,1,1,1,0
+Wolfram Alpha--42,base,1,1,1,0
+Wolfram Alpha--43,base,1,0,1,0
+Wolfram Alpha--44,base,1,1,1,0
+Wolfram Alpha--45,base,1,0,1,0
+Wolfram Alpha--5,base,1,1,1,0
+Wolfram Alpha--6,base,1,1,1,0
+Wolfram Alpha--7,base,1,0,1,0
+Wolfram Alpha--8,base,1,0,1,0
+Wolfram Alpha--9,base,1,1,1,0
+Allrecipes--0,base,2,0,1,0
+Allrecipes--1,base,2,1,1,0
+Allrecipes--10,base,2,0,1,0
+Allrecipes--11,base,2,0,1,1
+Allrecipes--12,base,2,0,1,0
+Allrecipes--13,base,2,0,1,0
+Allrecipes--14,base,2,0,1,0
+Allrecipes--15,base,2,0,1,0
+Allrecipes--17,base,2,0,1,0
+Allrecipes--18,base,2,0,1,0
+Allrecipes--2,base,2,0,1,0
+Allrecipes--20,base,2,0,1,1
+Allrecipes--21,base,2,0,1,0
+Allrecipes--22,base,2,0,1,0
+Allrecipes--24,base,2,0,1,0
+Allrecipes--25,base,2,0,1,0
+Allrecipes--26,base,2,0,0,1
+Allrecipes--27,base,2,0,1,0
+Allrecipes--28,base,2,0,1,0
+Allrecipes--29,base,2,0,1,0
+Allrecipes--31,base,2,0,1,0
+Allrecipes--32,base,2,0,1,0
+Allrecipes--33,base,2,0,1,0
+Allrecipes--34,base,2,0,1,0
+Allrecipes--35,base,2,0,1,0
+Allrecipes--36,base,2,0,1,0
+Allrecipes--37,base,2,0,1,0
+Allrecipes--38,base,2,0,1,0
+Allrecipes--39,base,2,0,1,0
+Allrecipes--4,base,2,0,1,0
+Allrecipes--40,base,2,0,1,0
+Allrecipes--41,base,2,0,1,0
+Allrecipes--42,base,2,0,1,0
+Allrecipes--43,base,2,0,1,0
+Allrecipes--44,base,2,0,1,0
+Allrecipes--5,base,2,0,0,0
+Allrecipes--6,base,2,1,1,0
+Allrecipes--7,base,2,1,1,0
+Allrecipes--8,base,2,0,1,0
+Allrecipes--9,base,2,1,1,0
+Amazon--0,base,2,0,1,1
+Amazon--1,base,2,0,1,1
+Amazon--10,base,2,1,1,0
+Amazon--11,base,2,0,1,1
+Amazon--12,base,2,0,1,0
+Amazon--13,base,2,1,1,0
+Amazon--14,base,2,1,1,0
+Amazon--15,base,2,1,1,0
+Amazon--17,base,2,1,1,0
+Amazon--18,base,2,1,1,0
+Amazon--2,base,2,0,1,1
+Amazon--20,base,2,0,1,1
+Amazon--21,base,2,0,1,1
+Amazon--22,base,2,1,1,0
+Amazon--23,base,2,1,1,0
+Amazon--24,base,2,1,1,0
+Amazon--25,base,2,0,1,1
+Amazon--26,base,2,1,1,0
+Amazon--27,base,2,1,1,0
+Amazon--28,base,2,0,1,1
+Amazon--29,base,2,0,1,0
+Amazon--3,base,2,1,1,0
+Amazon--30,base,2,1,1,0
+Amazon--31,base,2,0,1,0
+Amazon--32,base,2,1,1,0
+Amazon--33,base,2,1,1,0
+Amazon--34,base,2,1,1,0
+Amazon--35,base,2,0,1,1
+Amazon--36,base,2,1,1,0
+Amazon--37,base,2,0,1,1
+Amazon--38,base,2,1,1,0
+Amazon--39,base,2,1,1,0
+Amazon--40,base,2,1,1,0
+Amazon--5,base,2,1,1,0
+Amazon--6,base,2,0,1,0
+Amazon--7,base,2,0,1,0
+Amazon--8,base,2,1,1,0
+Amazon--9,base,2,1,1,0
+Apple--0,base,2,1,1,0
+Apple--10,base,2,1,1,0
+Apple--11,base,2,0,1,0
+Apple--12,base,2,0,1,0
+Apple--13,base,2,1,1,0
+Apple--15,base,2,1,1,0
+Apple--16,base,2,1,1,0
+Apple--17,base,2,0,1,0
+Apple--18,base,2,1,1,0
+Apple--19,base,2,0,1,0
+Apple--21,base,2,1,1,0
+Apple--23,base,2,0,1,0
+Apple--24,base,2,1,1,0
+Apple--25,base,2,1,1,0
+Apple--26,base,2,1,1,0
+Apple--27,base,2,0,1,0
+Apple--28,base,2,1,1,0
+Apple--29,base,2,1,1,0
+Apple--3,base,2,1,1,0
+Apple--30,base,2,1,1,0
+Apple--31,base,2,1,1,0
+Apple--33,base,2,1,1,0
+Apple--34,base,2,1,1,0
+Apple--35,base,2,0,1,0
+Apple--36,base,2,0,1,0
+Apple--38,base,2,1,1,0
+Apple--39,base,2,1,1,0
+Apple--40,base,2,1,1,0
+Apple--5,base,2,0,1,0
+Apple--6,base,2,1,1,0
+Apple--8,base,2,1,1,0
+Apple--9,base,2,0,1,0
+ArXiv--0,base,2,1,1,0
+ArXiv--1,base,2,1,1,0
+ArXiv--10,base,2,1,1,0
+ArXiv--12,base,2,0,1,0
+ArXiv--13,base,2,0,1,0
+ArXiv--14,base,2,0,1,0
+ArXiv--15,base,2,0,1,0
+ArXiv--16,base,2,1,1,0
+ArXiv--17,base,2,0,1,0
+ArXiv--18,base,2,0,1,0
+ArXiv--19,base,2,0,1,0
+ArXiv--2,base,2,0,1,0
+ArXiv--20,base,2,0,1,0
+ArXiv--21,base,2,0,1,0
+ArXiv--22,base,2,1,1,0
+ArXiv--23,base,2,0,1,0
+ArXiv--24,base,2,0,1,0
+ArXiv--25,base,2,1,1,0
+ArXiv--26,base,2,0,1,0
+ArXiv--27,base,2,1,1,0
+ArXiv--28,base,2,0,1,0
+ArXiv--29,base,2,0,1,0
+ArXiv--3,base,2,1,1,0
+ArXiv--30,base,2,1,1,0
+ArXiv--31,base,2,0,1,0
+ArXiv--32,base,2,1,1,0
+ArXiv--33,base,2,1,1,0
+ArXiv--34,base,2,0,1,0
+ArXiv--35,base,2,1,1,0
+ArXiv--36,base,2,0,1,0
+ArXiv--37,base,2,1,1,0
+ArXiv--38,base,2,1,1,0
+ArXiv--39,base,2,0,1,0
+ArXiv--4,base,2,1,1,0
+ArXiv--40,base,2,1,1,0
+ArXiv--41,base,2,0,1,0
+ArXiv--42,base,2,0,1,0
+ArXiv--5,base,2,0,1,0
+ArXiv--6,base,2,0,1,0
+ArXiv--7,base,2,1,1,0
+ArXiv--8,base,2,1,1,0
+ArXiv--9,base,2,0,1,0
+BBC News--0,base,2,0,1,0
+BBC News--1,base,2,1,1,0
+BBC News--11,base,2,0,1,0
+BBC News--12,base,2,0,1,0
+BBC News--13,base,2,1,1,0
+BBC News--15,base,2,1,1,0
+BBC News--17,base,2,1,1,0
+BBC News--19,base,2,1,1,0
+BBC News--20,base,2,1,1,0
+BBC News--22,base,2,0,1,0
+BBC News--23,base,2,1,1,0
+BBC News--24,base,2,0,1,0
+BBC News--25,base,2,1,1,0
+BBC News--27,base,2,0,1,0
+BBC News--28,base,2,0,1,0
+BBC News--3,base,2,0,1,0
+BBC News--30,base,2,0,1,0
+BBC News--31,base,2,1,1,0
+BBC News--32,base,2,1,1,0
+BBC News--34,base,2,0,1,0
+BBC News--35,base,2,0,1,0
+BBC News--36,base,2,1,1,0
+BBC News--37,base,2,1,1,0
+BBC News--38,base,2,0,1,0
+BBC News--39,base,2,1,1,0
+BBC News--4,base,2,0,1,0
+BBC News--40,base,2,0,1,0
+BBC News--41,base,2,0,1,0
+BBC News--6,base,2,1,1,0
+BBC News--7,base,2,1,1,0
+BBC News--8,base,2,0,1,0
+BBC News--9,base,2,0,1,0
+Booking--0,base,2,0,1,0
+Booking--1,base,2,0,1,0
+Booking--11,base,2,0,1,0
+Booking--12,base,2,1,1,0
+Booking--13,base,2,0,1,0
+Booking--14,base,2,0,1,0
+Booking--15,base,2,0,1,0
+Booking--16,base,2,0,1,0
+Booking--17,base,2,0,1,0
+Booking--18,base,2,0,1,0
+Booking--19,base,2,0,1,0
+Booking--2,base,2,0,1,0
+Booking--20,base,2,0,1,0
+Booking--21,base,2,0,1,0
+Booking--22,base,2,0,1,0
+Booking--23,base,2,0,1,0
+Booking--24,base,2,0,1,0
+Booking--25,base,2,0,1,0
+Booking--26,base,2,0,1,0
+Booking--27,base,2,0,1,0
+Booking--28,base,2,0,1,0
+Booking--29,base,2,0,1,0
+Booking--3,base,2,0,1,0
+Booking--30,base,2,0,1,0
+Booking--31,base,2,0,1,0
+Booking--32,base,2,0,1,0
+Booking--33,base,2,1,1,0
+Booking--34,base,2,0,1,0
+Booking--35,base,2,1,1,0
+Booking--36,base,2,0,1,0
+Booking--37,base,2,0,1,0
+Booking--38,base,2,0,1,0
+Booking--39,base,2,0,1,0
+Booking--4,base,2,0,1,0
+Booking--40,base,2,0,0,0
+Booking--41,base,2,1,1,0
+Booking--42,base,2,0,1,0
+Booking--43,base,2,1,1,0
+Booking--5,base,2,0,1,0
+Booking--6,base,2,0,1,0
+Booking--7,base,2,0,1,0
+Booking--8,base,2,0,1,0
+Booking--9,base,2,0,1,0
+Cambridge Dictionary--0,base,2,0,1,1
+Cambridge Dictionary--1,base,2,1,1,1
+Cambridge Dictionary--10,base,2,1,1,1
+Cambridge Dictionary--11,base,2,0,1,1
+Cambridge Dictionary--12,base,2,0,1,1
+Cambridge Dictionary--13,base,2,0,1,1
+Cambridge Dictionary--14,base,2,0,1,1
+Cambridge Dictionary--15,base,2,1,1,1
+Cambridge Dictionary--16,base,2,0,1,1
+Cambridge Dictionary--17,base,2,0,1,1
+Cambridge Dictionary--18,base,2,0,1,1
+Cambridge Dictionary--19,base,2,1,1,0
+Cambridge Dictionary--2,base,2,1,1,1
+Cambridge Dictionary--20,base,2,0,1,1
+Cambridge Dictionary--21,base,2,0,1,1
+Cambridge Dictionary--22,base,2,0,0,0
+Cambridge Dictionary--23,base,2,0,1,1
+Cambridge Dictionary--24,base,2,0,1,1
+Cambridge Dictionary--25,base,2,0,0,1
+Cambridge Dictionary--26,base,2,0,1,1
+Cambridge Dictionary--27,base,2,0,1,1
+Cambridge Dictionary--28,base,2,0,1,1
+Cambridge Dictionary--29,base,2,0,1,1
+Cambridge Dictionary--3,base,2,0,1,1
+Cambridge Dictionary--30,base,2,0,1,1
+Cambridge Dictionary--31,base,2,0,1,1
+Cambridge Dictionary--32,base,2,0,1,1
+Cambridge Dictionary--33,base,2,0,1,1
+Cambridge Dictionary--34,base,2,0,1,1
+Cambridge Dictionary--35,base,2,0,1,1
+Cambridge Dictionary--36,base,2,0,1,1
+Cambridge Dictionary--37,base,2,0,1,1
+Cambridge Dictionary--38,base,2,0,1,1
+Cambridge Dictionary--39,base,2,0,1,1
+Cambridge Dictionary--4,base,2,0,1,1
+Cambridge Dictionary--40,base,2,1,1,1
+Cambridge Dictionary--41,base,2,0,1,1
+Cambridge Dictionary--42,base,2,0,1,1
+Cambridge Dictionary--5,base,2,0,1,1
+Cambridge Dictionary--6,base,2,0,1,1
+Cambridge Dictionary--7,base,2,0,1,1
+Cambridge Dictionary--8,base,2,0,1,1
+Cambridge Dictionary--9,base,2,0,0,1
+Coursera--0,base,2,0,1,0
+Coursera--1,base,2,1,1,0
+Coursera--10,base,2,1,1,0
+Coursera--11,base,2,1,1,0
+Coursera--12,base,2,1,1,0
+Coursera--13,base,2,1,1,0
+Coursera--14,base,2,1,1,0
+Coursera--15,base,2,1,1,0
+Coursera--16,base,2,0,1,0
+Coursera--18,base,2,1,1,0
+Coursera--19,base,2,1,1,0
+Coursera--2,base,2,1,1,0
+Coursera--20,base,2,1,1,0
+Coursera--21,base,2,1,1,0
+Coursera--22,base,2,1,1,0
+Coursera--23,base,2,1,1,0
+Coursera--24,base,2,0,1,0
+Coursera--25,base,2,1,1,0
+Coursera--26,base,2,1,1,0
+Coursera--27,base,2,1,1,0
+Coursera--29,base,2,0,1,0
+Coursera--3,base,2,0,0,0
+Coursera--30,base,2,1,1,0
+Coursera--31,base,2,1,1,0
+Coursera--32,base,2,1,1,0
+Coursera--33,base,2,1,1,0
+Coursera--34,base,2,1,1,0
+Coursera--35,base,2,0,1,0
+Coursera--36,base,2,1,1,0
+Coursera--37,base,2,1,1,0
+Coursera--38,base,2,0,1,0
+Coursera--39,base,2,1,1,0
+Coursera--4,base,2,1,1,0
+Coursera--40,base,2,1,1,0
+Coursera--41,base,2,1,1,0
+Coursera--5,base,2,1,1,0
+Coursera--6,base,2,1,1,0
+Coursera--7,base,2,1,1,0
+Coursera--8,base,2,0,1,0
+Coursera--9,base,2,1,1,0
+ESPN--0,base,2,1,1,0
+ESPN--1,base,2,0,1,0
+ESPN--10,base,2,1,1,0
+ESPN--11,base,2,1,1,0
+ESPN--12,base,2,1,1,0
+ESPN--13,base,2,1,1,0
+ESPN--14,base,2,1,1,0
+ESPN--15,base,2,1,1,0
+ESPN--16,base,2,0,1,0
+ESPN--17,base,2,0,1,0
+ESPN--18,base,2,1,1,0
+ESPN--19,base,2,1,1,0
+ESPN--20,base,2,0,1,1
+ESPN--22,base,2,1,1,0
+ESPN--23,base,2,0,1,0
+ESPN--24,base,2,1,1,0
+ESPN--25,base,2,1,1,0
+ESPN--27,base,2,1,1,0
+ESPN--28,base,2,0,1,0
+ESPN--29,base,2,1,1,0
+ESPN--3,base,2,0,1,0
+ESPN--30,base,2,0,1,0
+ESPN--31,base,2,1,1,0
+ESPN--32,base,2,1,1,0
+ESPN--33,base,2,0,1,0
+ESPN--34,base,2,1,1,0
+ESPN--35,base,2,0,1,0
+ESPN--36,base,2,0,1,0
+ESPN--37,base,2,1,1,0
+ESPN--39,base,2,1,1,0
+ESPN--40,base,2,0,1,1
+ESPN--41,base,2,1,1,0
+ESPN--5,base,2,0,1,0
+ESPN--6,base,2,0,1,0
+ESPN--7,base,2,0,0,0
+ESPN--8,base,2,0,1,0
+ESPN--9,base,2,0,1,0
+GitHub--0,base,2,1,1,0
+GitHub--1,base,2,0,1,0
+GitHub--10,base,2,0,1,0
+GitHub--11,base,2,1,1,0
+GitHub--12,base,2,1,1,0
+GitHub--13,base,2,1,1,0
+GitHub--14,base,2,1,1,0
+GitHub--15,base,2,1,1,0
+GitHub--16,base,2,1,1,0
+GitHub--17,base,2,0,1,0
+GitHub--18,base,2,1,1,0
+GitHub--19,base,2,0,1,0
+GitHub--2,base,2,1,1,0
+GitHub--20,base,2,1,1,0
+GitHub--21,base,2,1,1,0
+GitHub--22,base,2,0,0,0
+GitHub--23,base,2,0,1,0
+GitHub--24,base,2,1,1,0
+GitHub--25,base,2,1,1,0
+GitHub--26,base,2,0,1,0
+GitHub--27,base,2,1,1,0
+GitHub--28,base,2,0,1,0
+GitHub--29,base,2,1,1,0
+GitHub--3,base,2,1,1,0
+GitHub--30,base,2,0,1,0
+GitHub--31,base,2,0,1,0
+GitHub--32,base,2,1,1,0
+GitHub--33,base,2,1,1,0
+GitHub--34,base,2,1,1,0
+GitHub--35,base,2,1,1,0
+GitHub--36,base,2,1,1,0
+GitHub--37,base,2,1,1,0
+GitHub--38,base,2,1,1,0
+GitHub--39,base,2,1,1,0
+GitHub--4,base,2,0,1,0
+GitHub--40,base,2,0,1,0
+GitHub--5,base,2,1,1,0
+GitHub--6,base,2,0,1,0
+GitHub--7,base,2,1,1,0
+GitHub--8,base,2,1,1,0
+GitHub--9,base,2,0,1,0
+Google Flights--0,base,2,1,1,0
+Google Flights--1,base,2,1,1,0
+Google Flights--10,base,2,0,1,0
+Google Flights--11,base,2,0,1,0
+Google Flights--12,base,2,0,1,0
+Google Flights--13,base,2,0,1,0
+Google Flights--14,base,2,0,1,0
+Google Flights--15,base,2,1,1,0
+Google Flights--16,base,2,1,1,0
+Google Flights--17,base,2,0,1,0
+Google Flights--18,base,2,0,1,0
+Google Flights--19,base,2,0,1,0
+Google Flights--2,base,2,1,1,0
+Google Flights--20,base,2,1,1,0
+Google Flights--21,base,2,0,1,0
+Google Flights--22,base,2,0,1,0
+Google Flights--23,base,2,0,1,0
+Google Flights--24,base,2,0,1,0
+Google Flights--25,base,2,0,1,0
+Google Flights--26,base,2,0,1,0
+Google Flights--27,base,2,0,1,0
+Google Flights--28,base,2,1,1,0
+Google Flights--29,base,2,0,1,0
+Google Flights--3,base,2,0,1,0
+Google Flights--30,base,2,1,1,0
+Google Flights--31,base,2,0,1,0
+Google Flights--32,base,2,0,1,0
+Google Flights--33,base,2,0,1,0
+Google Flights--34,base,2,1,1,0
+Google Flights--35,base,2,1,1,0
+Google Flights--36,base,2,0,1,0
+Google Flights--37,base,2,1,1,0
+Google Flights--38,base,2,1,1,0
+Google Flights--39,base,2,0,1,0
+Google Flights--4,base,2,0,1,0
+Google Flights--40,base,2,1,1,0
+Google Flights--41,base,2,0,1,0
+Google Flights--5,base,2,0,1,0
+Google Flights--6,base,2,0,1,0
+Google Flights--8,base,2,0,1,0
+Google Flights--9,base,2,1,1,0
+Google Map--0,base,2,0,1,0
+Google Map--1,base,2,1,1,0
+Google Map--10,base,2,1,1,0
+Google Map--11,base,2,1,1,0
+Google Map--12,base,2,1,1,0
+Google Map--13,base,2,0,1,0
+Google Map--14,base,2,1,1,0
+Google Map--15,base,2,0,1,0
+Google Map--16,base,2,1,1,0
+Google Map--17,base,2,1,1,0
+Google Map--18,base,2,1,1,0
+Google Map--19,base,2,1,1,0
+Google Map--2,base,2,0,1,0
+Google Map--20,base,2,1,1,0
+Google Map--21,base,2,1,1,0
+Google Map--22,base,2,1,1,0
+Google Map--23,base,2,1,1,0
+Google Map--24,base,2,1,1,0
+Google Map--25,base,2,0,1,0
+Google Map--27,base,2,0,1,0
+Google Map--28,base,2,0,1,0
+Google Map--29,base,2,1,1,0
+Google Map--3,base,2,1,1,0
+Google Map--30,base,2,0,1,0
+Google Map--31,base,2,0,1,0
+Google Map--32,base,2,0,1,0
+Google Map--33,base,2,0,1,0
+Google Map--34,base,2,1,1,0
+Google Map--35,base,2,1,1,0
+Google Map--36,base,2,1,1,0
+Google Map--37,base,2,1,1,0
+Google Map--38,base,2,1,1,0
+Google Map--39,base,2,0,1,0
+Google Map--4,base,2,1,1,0
+Google Map--40,base,2,0,1,0
+Google Map--5,base,2,0,1,0
+Google Map--6,base,2,1,1,0
+Google Map--7,base,2,1,1,0
+Google Map--8,base,2,1,1,0
+Google Map--9,base,2,0,1,0
+Google Search--0,base,2,0,1,1
+Google Search--1,base,2,0,1,1
+Google Search--10,base,2,1,1,1
+Google Search--11,base,2,1,1,1
+Google Search--12,base,2,0,1,1
+Google Search--13,base,2,0,1,1
+Google Search--14,base,2,0,1,1
+Google Search--15,base,2,0,1,0
+Google Search--16,base,2,0,1,1
+Google Search--17,base,2,1,1,1
+Google Search--18,base,2,1,1,1
+Google Search--19,base,2,0,1,0
+Google Search--2,base,2,0,1,1
+Google Search--20,base,2,1,1,1
+Google Search--21,base,2,0,1,1
+Google Search--22,base,2,0,0,1
+Google Search--23,base,2,0,1,1
+Google Search--24,base,2,1,1,1
+Google Search--25,base,2,0,1,1
+Google Search--26,base,2,0,1,1
+Google Search--27,base,2,0,0,1
+Google Search--28,base,2,0,1,1
+Google Search--29,base,2,0,1,1
+Google Search--3,base,2,0,1,1
+Google Search--30,base,2,0,1,1
+Google Search--31,base,2,0,0,1
+Google Search--32,base,2,0,1,1
+Google Search--33,base,2,0,1,0
+Google Search--34,base,2,0,1,1
+Google Search--35,base,2,0,1,1
+Google Search--36,base,2,0,1,1
+Google Search--37,base,2,0,1,1
+Google Search--38,base,2,0,1,1
+Google Search--39,base,2,0,1,1
+Google Search--4,base,2,1,1,0
+Google Search--40,base,2,1,1,1
+Google Search--41,base,2,0,1,1
+Google Search--42,base,2,0,1,1
+Google Search--5,base,2,0,1,1
+Google Search--6,base,2,0,1,1
+Google Search--7,base,2,0,0,0
+Google Search--8,base,2,0,1,1
+Google Search--9,base,2,0,1,1
+Huggingface--0,base,2,0,1,1
+Huggingface--11,base,2,0,1,0
+Huggingface--12,base,2,0,1,1
+Huggingface--13,base,2,0,1,1
+Huggingface--14,base,2,0,0,1
+Huggingface--15,base,2,0,1,1
+Huggingface--16,base,2,0,1,1
+Huggingface--17,base,2,0,1,1
+Huggingface--18,base,2,0,1,1
+Huggingface--19,base,2,0,1,1
+Huggingface--2,base,2,1,1,0
+Huggingface--21,base,2,0,1,0
+Huggingface--22,base,2,0,1,1
+Huggingface--24,base,2,0,1,1
+Huggingface--25,base,2,0,1,1
+Huggingface--26,base,2,0,1,1
+Huggingface--27,base,2,0,1,1
+Huggingface--28,base,2,0,0,1
+Huggingface--29,base,2,1,1,1
+Huggingface--3,base,2,1,1,0
+Huggingface--30,base,2,0,1,1
+Huggingface--31,base,2,0,1,1
+Huggingface--33,base,2,1,1,1
+Huggingface--34,base,2,0,1,1
+Huggingface--35,base,2,0,1,1
+Huggingface--36,base,2,0,1,1
+Huggingface--37,base,2,1,1,1
+Huggingface--38,base,2,0,1,1
+Huggingface--39,base,2,1,1,1
+Huggingface--4,base,2,0,1,1
+Huggingface--40,base,2,1,1,0
+Huggingface--41,base,2,1,1,0
+Huggingface--42,base,2,1,1,0
+Huggingface--5,base,2,1,1,0
+Huggingface--7,base,2,1,1,0
+Huggingface--8,base,2,0,1,1
+Huggingface--9,base,2,0,1,1
+Wolfram Alpha--0,base,2,1,1,0
+Wolfram Alpha--1,base,2,0,1,0
+Wolfram Alpha--10,base,2,1,1,0
+Wolfram Alpha--11,base,2,1,1,0
+Wolfram Alpha--12,base,2,0,1,0
+Wolfram Alpha--13,base,2,0,1,0
+Wolfram Alpha--14,base,2,0,1,0
+Wolfram Alpha--15,base,2,1,1,0
+Wolfram Alpha--16,base,2,1,1,0
+Wolfram Alpha--17,base,2,1,1,0
+Wolfram Alpha--18,base,2,1,1,0
+Wolfram Alpha--19,base,2,0,1,0
+Wolfram Alpha--2,base,2,1,1,0
+Wolfram Alpha--20,base,2,1,1,0
+Wolfram Alpha--21,base,2,1,1,0
+Wolfram Alpha--22,base,2,1,1,0
+Wolfram Alpha--23,base,2,1,1,0
+Wolfram Alpha--24,base,2,1,1,0
+Wolfram Alpha--25,base,2,0,1,0
+Wolfram Alpha--26,base,2,1,1,0
+Wolfram Alpha--27,base,2,0,1,0
+Wolfram Alpha--28,base,2,1,1,0
+Wolfram Alpha--29,base,2,1,1,0
+Wolfram Alpha--3,base,2,1,1,0
+Wolfram Alpha--30,base,2,0,1,0
+Wolfram Alpha--31,base,2,1,1,0
+Wolfram Alpha--32,base,2,1,1,0
+Wolfram Alpha--33,base,2,1,1,0
+Wolfram Alpha--34,base,2,0,1,0
+Wolfram Alpha--35,base,2,1,1,0
+Wolfram Alpha--36,base,2,1,1,0
+Wolfram Alpha--37,base,2,1,1,0
+Wolfram Alpha--38,base,2,1,1,0
+Wolfram Alpha--39,base,2,0,1,0
+Wolfram Alpha--4,base,2,0,1,0
+Wolfram Alpha--40,base,2,1,1,0
+Wolfram Alpha--41,base,2,1,1,0
+Wolfram Alpha--42,base,2,0,1,0
+Wolfram Alpha--43,base,2,0,1,0
+Wolfram Alpha--44,base,2,1,1,0
+Wolfram Alpha--45,base,2,1,1,0
+Wolfram Alpha--5,base,2,1,1,0
+Wolfram Alpha--6,base,2,0,1,0
+Wolfram Alpha--7,base,2,0,1,0
+Wolfram Alpha--8,base,2,1,1,0
+Wolfram Alpha--9,base,2,1,1,0
+Allrecipes--0,base,3,0,1,0
+Allrecipes--1,base,3,1,1,0
+Allrecipes--10,base,3,0,1,0
+Allrecipes--11,base,3,0,1,1
+Allrecipes--12,base,3,0,1,0
+Allrecipes--13,base,3,0,1,0
+Allrecipes--14,base,3,0,1,0
+Allrecipes--15,base,3,0,1,0
+Allrecipes--17,base,3,0,1,0
+Allrecipes--18,base,3,0,1,0
+Allrecipes--2,base,3,1,1,0
+Allrecipes--20,base,3,0,1,0
+Allrecipes--21,base,3,0,1,0
+Allrecipes--22,base,3,0,1,0
+Allrecipes--24,base,3,0,1,0
+Allrecipes--25,base,3,0,1,0
+Allrecipes--26,base,3,0,1,0
+Allrecipes--27,base,3,0,1,0
+Allrecipes--28,base,3,0,1,0
+Allrecipes--29,base,3,0,1,0
+Allrecipes--31,base,3,0,1,0
+Allrecipes--32,base,3,0,1,0
+Allrecipes--33,base,3,0,1,0
+Allrecipes--34,base,3,0,1,0
+Allrecipes--35,base,3,0,1,0
+Allrecipes--36,base,3,0,1,0
+Allrecipes--37,base,3,0,1,0
+Allrecipes--38,base,3,0,1,0
+Allrecipes--39,base,3,0,1,0
+Allrecipes--4,base,3,1,1,0
+Allrecipes--40,base,3,0,1,0
+Allrecipes--41,base,3,0,1,0
+Allrecipes--42,base,3,0,1,0
+Allrecipes--43,base,3,0,1,0
+Allrecipes--44,base,3,0,1,0
+Allrecipes--5,base,3,1,1,0
+Allrecipes--6,base,3,0,1,0
+Allrecipes--7,base,3,1,1,1
+Allrecipes--8,base,3,0,1,0
+Allrecipes--9,base,3,1,1,0
+Amazon--0,base,3,1,1,0
+Amazon--1,base,3,0,1,1
+Amazon--10,base,3,1,1,0
+Amazon--11,base,3,1,1,0
+Amazon--12,base,3,0,1,0
+Amazon--13,base,3,0,1,0
+Amazon--14,base,3,1,1,0
+Amazon--15,base,3,0,1,1
+Amazon--17,base,3,1,1,0
+Amazon--18,base,3,1,1,0
+Amazon--2,base,3,0,1,0
+Amazon--20,base,3,0,1,1
+Amazon--21,base,3,0,1,1
+Amazon--22,base,3,1,1,0
+Amazon--23,base,3,1,1,0
+Amazon--24,base,3,1,1,0
+Amazon--25,base,3,1,1,0
+Amazon--26,base,3,0,1,1
+Amazon--27,base,3,0,1,1
+Amazon--28,base,3,0,1,1
+Amazon--29,base,3,0,1,1
+Amazon--3,base,3,1,1,0
+Amazon--30,base,3,1,1,0
+Amazon--31,base,3,0,1,0
+Amazon--32,base,3,1,1,0
+Amazon--33,base,3,1,1,0
+Amazon--34,base,3,1,1,0
+Amazon--35,base,3,0,1,1
+Amazon--36,base,3,1,1,0
+Amazon--37,base,3,0,1,1
+Amazon--38,base,3,1,1,0
+Amazon--39,base,3,0,1,0
+Amazon--40,base,3,1,1,0
+Amazon--5,base,3,0,1,1
+Amazon--6,base,3,0,1,0
+Amazon--7,base,3,0,1,0
+Amazon--8,base,3,1,1,0
+Amazon--9,base,3,0,1,1
+Apple--0,base,3,1,1,0
+Apple--10,base,3,1,1,0
+Apple--11,base,3,0,1,0
+Apple--12,base,3,0,1,0
+Apple--13,base,3,1,1,0
+Apple--15,base,3,1,1,0
+Apple--16,base,3,1,1,0
+Apple--17,base,3,0,1,0
+Apple--18,base,3,1,1,0
+Apple--19,base,3,0,1,0
+Apple--21,base,3,1,1,0
+Apple--23,base,3,1,1,0
+Apple--24,base,3,1,1,0
+Apple--25,base,3,0,1,0
+Apple--26,base,3,1,1,0
+Apple--27,base,3,0,1,0
+Apple--28,base,3,1,1,0
+Apple--29,base,3,1,1,0
+Apple--3,base,3,1,1,0
+Apple--30,base,3,1,1,0
+Apple--31,base,3,1,1,0
+Apple--33,base,3,1,1,0
+Apple--34,base,3,1,1,0
+Apple--35,base,3,1,1,0
+Apple--36,base,3,0,1,0
+Apple--38,base,3,1,1,0
+Apple--39,base,3,1,1,0
+Apple--40,base,3,0,1,0
+Apple--5,base,3,0,1,0
+Apple--6,base,3,1,1,0
+Apple--8,base,3,1,1,0
+Apple--9,base,3,0,1,0
+ArXiv--0,base,3,0,1,0
+ArXiv--1,base,3,0,1,0
+ArXiv--10,base,3,1,1,0
+ArXiv--12,base,3,1,1,0
+ArXiv--13,base,3,1,1,0
+ArXiv--14,base,3,1,1,0
+ArXiv--15,base,3,1,1,0
+ArXiv--16,base,3,1,1,0
+ArXiv--17,base,3,0,1,1
+ArXiv--18,base,3,0,1,0
+ArXiv--19,base,3,1,1,1
+ArXiv--2,base,3,1,1,0
+ArXiv--20,base,3,1,1,0
+ArXiv--21,base,3,0,1,0
+ArXiv--22,base,3,1,1,0
+ArXiv--23,base,3,1,1,0
+ArXiv--24,base,3,0,1,0
+ArXiv--25,base,3,1,1,0
+ArXiv--26,base,3,0,1,0
+ArXiv--27,base,3,1,1,0
+ArXiv--28,base,3,0,1,0
+ArXiv--29,base,3,0,1,0
+ArXiv--3,base,3,1,1,0
+ArXiv--30,base,3,1,1,0
+ArXiv--31,base,3,1,1,0
+ArXiv--32,base,3,1,1,0
+ArXiv--33,base,3,1,1,0
+ArXiv--34,base,3,0,1,0
+ArXiv--35,base,3,1,1,0
+ArXiv--36,base,3,0,1,0
+ArXiv--37,base,3,1,1,0
+ArXiv--38,base,3,1,1,0
+ArXiv--39,base,3,0,1,0
+ArXiv--4,base,3,0,1,0
+ArXiv--40,base,3,0,1,0
+ArXiv--41,base,3,0,1,0
+ArXiv--42,base,3,0,1,0
+ArXiv--5,base,3,0,1,0
+ArXiv--6,base,3,0,1,0
+ArXiv--7,base,3,1,1,0
+ArXiv--8,base,3,1,1,0
+ArXiv--9,base,3,1,1,0
+BBC News--0,base,3,1,1,0
+BBC News--1,base,3,0,1,0
+BBC News--11,base,3,1,1,0
+BBC News--12,base,3,0,1,0
+BBC News--13,base,3,1,1,0
+BBC News--15,base,3,1,1,0
+BBC News--17,base,3,1,1,0
+BBC News--19,base,3,0,1,0
+BBC News--20,base,3,1,1,0
+BBC News--22,base,3,0,1,0
+BBC News--23,base,3,0,1,0
+BBC News--24,base,3,0,1,0
+BBC News--25,base,3,1,1,0
+BBC News--27,base,3,0,1,0
+BBC News--28,base,3,0,1,0
+BBC News--3,base,3,0,1,0
+BBC News--30,base,3,0,1,0
+BBC News--31,base,3,1,1,0
+BBC News--32,base,3,0,1,0
+BBC News--34,base,3,1,1,0
+BBC News--35,base,3,0,1,0
+BBC News--36,base,3,1,1,0
+BBC News--37,base,3,1,1,0
+BBC News--38,base,3,1,1,0
+BBC News--39,base,3,1,1,0
+BBC News--4,base,3,0,1,0
+BBC News--40,base,3,0,1,0
+BBC News--41,base,3,0,1,0
+BBC News--6,base,3,0,1,0
+BBC News--7,base,3,1,1,0
+BBC News--8,base,3,0,1,0
+BBC News--9,base,3,1,1,0
+Booking--0,base,3,0,1,0
+Booking--1,base,3,0,1,0
+Booking--11,base,3,0,1,0
+Booking--12,base,3,0,1,0
+Booking--13,base,3,0,1,0
+Booking--14,base,3,0,1,0
+Booking--15,base,3,0,1,0
+Booking--16,base,3,1,1,0
+Booking--17,base,3,0,1,0
+Booking--18,base,3,0,1,0
+Booking--19,base,3,0,1,0
+Booking--2,base,3,0,1,0
+Booking--20,base,3,0,1,0
+Booking--21,base,3,0,1,0
+Booking--22,base,3,0,1,0
+Booking--23,base,3,0,1,0
+Booking--24,base,3,0,1,0
+Booking--25,base,3,0,1,0
+Booking--26,base,3,0,1,0
+Booking--27,base,3,0,1,0
+Booking--28,base,3,0,1,0
+Booking--29,base,3,0,1,0
+Booking--3,base,3,0,1,0
+Booking--30,base,3,0,1,0
+Booking--31,base,3,0,1,0
+Booking--32,base,3,0,1,0
+Booking--33,base,3,1,1,0
+Booking--34,base,3,0,1,0
+Booking--35,base,3,1,1,0
+Booking--36,base,3,0,1,0
+Booking--37,base,3,0,1,0
+Booking--38,base,3,0,1,0
+Booking--39,base,3,0,1,0
+Booking--4,base,3,0,1,0
+Booking--40,base,3,0,1,0
+Booking--41,base,3,1,1,0
+Booking--42,base,3,0,1,0
+Booking--43,base,3,1,1,0
+Booking--5,base,3,0,1,0
+Booking--6,base,3,0,0,0
+Booking--7,base,3,0,1,0
+Booking--8,base,3,0,1,0
+Booking--9,base,3,0,1,0
+Cambridge Dictionary--0,base,3,0,1,1
+Cambridge Dictionary--1,base,3,0,1,1
+Cambridge Dictionary--10,base,3,0,1,1
+Cambridge Dictionary--11,base,3,0,1,1
+Cambridge Dictionary--12,base,3,0,1,1
+Cambridge Dictionary--13,base,3,0,1,1
+Cambridge Dictionary--14,base,3,0,1,1
+Cambridge Dictionary--15,base,3,0,1,1
+Cambridge Dictionary--16,base,3,0,1,1
+Cambridge Dictionary--17,base,3,0,1,1
+Cambridge Dictionary--18,base,3,0,1,1
+Cambridge Dictionary--19,base,3,0,1,1
+Cambridge Dictionary--2,base,3,1,1,1
+Cambridge Dictionary--20,base,3,0,1,1
+Cambridge Dictionary--21,base,3,0,1,1
+Cambridge Dictionary--22,base,3,0,1,1
+Cambridge Dictionary--23,base,3,0,1,1
+Cambridge Dictionary--24,base,3,0,1,1
+Cambridge Dictionary--25,base,3,0,1,1
+Cambridge Dictionary--26,base,3,0,1,1
+Cambridge Dictionary--27,base,3,0,1,1
+Cambridge Dictionary--28,base,3,0,1,1
+Cambridge Dictionary--29,base,3,0,1,1
+Cambridge Dictionary--3,base,3,0,1,1
+Cambridge Dictionary--30,base,3,0,1,1
+Cambridge Dictionary--31,base,3,0,1,1
+Cambridge Dictionary--32,base,3,0,1,1
+Cambridge Dictionary--33,base,3,0,1,1
+Cambridge Dictionary--34,base,3,0,1,1
+Cambridge Dictionary--35,base,3,0,1,1
+Cambridge Dictionary--36,base,3,0,1,1
+Cambridge Dictionary--37,base,3,0,1,1
+Cambridge Dictionary--38,base,3,0,1,1
+Cambridge Dictionary--39,base,3,0,1,1
+Cambridge Dictionary--4,base,3,0,1,1
+Cambridge Dictionary--40,base,3,0,1,1
+Cambridge Dictionary--41,base,3,0,1,1
+Cambridge Dictionary--42,base,3,0,1,1
+Cambridge Dictionary--5,base,3,0,1,1
+Cambridge Dictionary--6,base,3,0,1,1
+Cambridge Dictionary--7,base,3,0,1,1
+Cambridge Dictionary--8,base,3,0,1,1
+Cambridge Dictionary--9,base,3,0,1,1
+Coursera--0,base,3,0,1,0
+Coursera--1,base,3,1,1,0
+Coursera--10,base,3,1,1,0
+Coursera--11,base,3,1,1,0
+Coursera--12,base,3,1,1,0
+Coursera--13,base,3,1,1,0
+Coursera--14,base,3,1,1,0
+Coursera--15,base,3,1,1,0
+Coursera--16,base,3,0,1,0
+Coursera--18,base,3,1,1,0
+Coursera--19,base,3,1,1,0
+Coursera--2,base,3,1,1,0
+Coursera--20,base,3,1,1,0
+Coursera--21,base,3,1,1,0
+Coursera--22,base,3,1,1,0
+Coursera--23,base,3,1,1,0
+Coursera--24,base,3,1,1,0
+Coursera--25,base,3,1,1,0
+Coursera--26,base,3,1,1,0
+Coursera--27,base,3,1,1,0
+Coursera--29,base,3,0,1,0
+Coursera--3,base,3,0,1,0
+Coursera--30,base,3,1,1,0
+Coursera--31,base,3,1,1,0
+Coursera--32,base,3,1,1,0
+Coursera--33,base,3,1,1,0
+Coursera--34,base,3,1,1,0
+Coursera--35,base,3,1,1,0
+Coursera--36,base,3,1,1,0
+Coursera--37,base,3,1,1,0
+Coursera--38,base,3,0,1,0
+Coursera--39,base,3,1,1,0
+Coursera--4,base,3,1,1,0
+Coursera--40,base,3,1,1,0
+Coursera--41,base,3,1,1,0
+Coursera--5,base,3,1,1,0
+Coursera--6,base,3,1,1,0
+Coursera--7,base,3,1,1,0
+Coursera--8,base,3,0,1,0
+Coursera--9,base,3,1,1,0
+ESPN--0,base,3,0,1,0
+ESPN--1,base,3,0,1,0
+ESPN--10,base,3,0,1,0
+ESPN--11,base,3,0,1,0
+ESPN--12,base,3,1,1,0
+ESPN--13,base,3,1,1,0
+ESPN--14,base,3,1,1,0
+ESPN--15,base,3,0,1,0
+ESPN--16,base,3,0,1,0
+ESPN--17,base,3,0,1,0
+ESPN--18,base,3,1,1,0
+ESPN--19,base,3,1,1,0
+ESPN--20,base,3,0,1,0
+ESPN--22,base,3,0,1,1
+ESPN--23,base,3,0,1,0
+ESPN--24,base,3,1,1,0
+ESPN--25,base,3,0,1,0
+ESPN--27,base,3,1,1,0
+ESPN--28,base,3,0,1,0
+ESPN--29,base,3,1,1,0
+ESPN--3,base,3,1,1,0
+ESPN--30,base,3,0,1,0
+ESPN--31,base,3,1,1,0
+ESPN--32,base,3,1,1,0
+ESPN--33,base,3,0,1,0
+ESPN--34,base,3,1,1,0
+ESPN--35,base,3,1,1,0
+ESPN--36,base,3,1,1,0
+ESPN--37,base,3,0,1,0
+ESPN--39,base,3,1,1,0
+ESPN--40,base,3,0,1,1
+ESPN--41,base,3,1,1,0
+ESPN--5,base,3,0,1,0
+ESPN--6,base,3,0,1,0
+ESPN--7,base,3,0,1,0
+ESPN--8,base,3,1,1,0
+ESPN--9,base,3,1,1,0
+GitHub--0,base,3,1,1,0
+GitHub--1,base,3,1,1,0
+GitHub--10,base,3,1,1,0
+GitHub--11,base,3,0,1,0
+GitHub--12,base,3,1,1,0
+GitHub--13,base,3,1,1,0
+GitHub--14,base,3,0,0,0
+GitHub--15,base,3,1,1,0
+GitHub--16,base,3,1,1,0
+GitHub--17,base,3,1,1,0
+GitHub--18,base,3,1,1,0
+GitHub--19,base,3,0,1,0
+GitHub--2,base,3,1,1,0
+GitHub--20,base,3,1,1,0
+GitHub--21,base,3,1,1,0
+GitHub--22,base,3,1,1,0
+GitHub--23,base,3,1,1,0
+GitHub--24,base,3,1,1,0
+GitHub--25,base,3,0,1,0
+GitHub--26,base,3,1,1,0
+GitHub--27,base,3,1,1,0
+GitHub--28,base,3,0,1,0
+GitHub--29,base,3,1,1,0
+GitHub--3,base,3,1,1,0
+GitHub--30,base,3,0,1,0
+GitHub--31,base,3,0,1,0
+GitHub--32,base,3,0,0,0
+GitHub--33,base,3,1,1,0
+GitHub--34,base,3,1,1,0
+GitHub--35,base,3,1,1,0
+GitHub--36,base,3,0,1,0
+GitHub--37,base,3,1,1,0
+GitHub--38,base,3,1,1,0
+GitHub--39,base,3,1,1,0
+GitHub--4,base,3,0,1,0
+GitHub--40,base,3,0,1,0
+GitHub--5,base,3,0,1,0
+GitHub--6,base,3,0,1,0
+GitHub--7,base,3,1,1,0
+GitHub--8,base,3,1,1,0
+GitHub--9,base,3,0,1,0
+Google Flights--0,base,3,0,1,0
+Google Flights--1,base,3,1,1,0
+Google Flights--10,base,3,0,1,0
+Google Flights--11,base,3,0,1,0
+Google Flights--12,base,3,0,1,0
+Google Flights--13,base,3,0,1,0
+Google Flights--14,base,3,0,1,0
+Google Flights--15,base,3,1,1,0
+Google Flights--16,base,3,0,1,0
+Google Flights--17,base,3,1,1,0
+Google Flights--18,base,3,0,1,0
+Google Flights--19,base,3,1,1,0
+Google Flights--2,base,3,1,1,0
+Google Flights--20,base,3,0,1,0
+Google Flights--21,base,3,0,1,0
+Google Flights--22,base,3,0,1,0
+Google Flights--23,base,3,0,1,0
+Google Flights--24,base,3,0,1,0
+Google Flights--25,base,3,1,1,0
+Google Flights--26,base,3,1,1,0
+Google Flights--27,base,3,0,1,0
+Google Flights--28,base,3,0,1,0
+Google Flights--29,base,3,0,1,0
+Google Flights--3,base,3,0,1,0
+Google Flights--30,base,3,0,1,0
+Google Flights--31,base,3,0,1,0
+Google Flights--32,base,3,0,1,0
+Google Flights--33,base,3,0,1,0
+Google Flights--34,base,3,1,1,0
+Google Flights--35,base,3,1,1,0
+Google Flights--36,base,3,0,0,0
+Google Flights--37,base,3,1,1,0
+Google Flights--38,base,3,0,1,0
+Google Flights--39,base,3,0,1,0
+Google Flights--4,base,3,0,1,0
+Google Flights--40,base,3,1,1,0
+Google Flights--41,base,3,0,1,0
+Google Flights--5,base,3,0,1,0
+Google Flights--6,base,3,1,1,0
+Google Flights--8,base,3,0,1,0
+Google Flights--9,base,3,0,1,0
+Google Map--0,base,3,0,1,0
+Google Map--1,base,3,1,1,0
+Google Map--10,base,3,1,1,0
+Google Map--11,base,3,1,1,0
+Google Map--12,base,3,0,1,0
+Google Map--13,base,3,0,1,0
+Google Map--14,base,3,1,1,0
+Google Map--15,base,3,0,1,0
+Google Map--16,base,3,1,1,0
+Google Map--17,base,3,1,1,0
+Google Map--18,base,3,0,1,0
+Google Map--19,base,3,0,1,0
+Google Map--2,base,3,0,1,0
+Google Map--20,base,3,1,1,0
+Google Map--21,base,3,1,1,0
+Google Map--22,base,3,1,1,0
+Google Map--23,base,3,1,1,0
+Google Map--24,base,3,1,1,0
+Google Map--25,base,3,1,1,0
+Google Map--27,base,3,0,1,0
+Google Map--28,base,3,0,1,0
+Google Map--29,base,3,1,1,0
+Google Map--3,base,3,1,1,0
+Google Map--30,base,3,0,1,0
+Google Map--31,base,3,0,1,0
+Google Map--32,base,3,0,1,0
+Google Map--33,base,3,0,0,0
+Google Map--34,base,3,1,1,0
+Google Map--35,base,3,1,1,0
+Google Map--36,base,3,0,1,0
+Google Map--37,base,3,1,1,0
+Google Map--38,base,3,1,1,0
+Google Map--39,base,3,1,1,0
+Google Map--4,base,3,1,1,0
+Google Map--40,base,3,0,0,0
+Google Map--5,base,3,0,1,0
+Google Map--6,base,3,1,1,0
+Google Map--7,base,3,1,1,0
+Google Map--8,base,3,1,1,0
+Google Map--9,base,3,0,1,0
+Google Search--0,base,3,0,1,1
+Google Search--1,base,3,1,1,1
+Google Search--10,base,3,0,1,1
+Google Search--11,base,3,0,1,0
+Google Search--12,base,3,0,1,1
+Google Search--13,base,3,0,1,1
+Google Search--14,base,3,0,1,1
+Google Search--15,base,3,0,1,0
+Google Search--16,base,3,0,1,1
+Google Search--17,base,3,0,1,1
+Google Search--18,base,3,0,1,1
+Google Search--19,base,3,0,1,1
+Google Search--2,base,3,0,1,1
+Google Search--20,base,3,1,1,1
+Google Search--21,base,3,0,1,1
+Google Search--22,base,3,0,1,1
+Google Search--23,base,3,0,1,1
+Google Search--24,base,3,0,1,1
+Google Search--25,base,3,1,1,1
+Google Search--26,base,3,0,1,1
+Google Search--27,base,3,0,1,1
+Google Search--28,base,3,0,1,1
+Google Search--29,base,3,0,1,1
+Google Search--3,base,3,0,1,1
+Google Search--30,base,3,0,1,1
+Google Search--31,base,3,0,1,1
+Google Search--32,base,3,0,1,1
+Google Search--33,base,3,1,1,0
+Google Search--34,base,3,0,1,1
+Google Search--35,base,3,0,0,1
+Google Search--36,base,3,1,1,1
+Google Search--37,base,3,1,1,1
+Google Search--38,base,3,0,1,1
+Google Search--39,base,3,0,1,1
+Google Search--4,base,3,0,1,1
+Google Search--40,base,3,0,1,1
+Google Search--41,base,3,1,1,1
+Google Search--42,base,3,1,1,1
+Google Search--5,base,3,1,1,1
+Google Search--6,base,3,0,1,1
+Google Search--7,base,3,0,1,1
+Google Search--8,base,3,0,1,1
+Google Search--9,base,3,0,1,1
+Huggingface--0,base,3,1,1,0
+Huggingface--11,base,3,0,1,0
+Huggingface--12,base,3,0,1,1
+Huggingface--13,base,3,0,1,1
+Huggingface--14,base,3,1,1,0
+Huggingface--15,base,3,1,1,0
+Huggingface--16,base,3,0,1,1
+Huggingface--17,base,3,1,1,0
+Huggingface--18,base,3,1,1,0
+Huggingface--19,base,3,1,1,0
+Huggingface--2,base,3,0,1,1
+Huggingface--21,base,3,0,1,0
+Huggingface--22,base,3,0,1,1
+Huggingface--24,base,3,0,1,1
+Huggingface--25,base,3,0,1,1
+Huggingface--26,base,3,0,1,1
+Huggingface--27,base,3,0,1,1
+Huggingface--28,base,3,0,1,1
+Huggingface--29,base,3,0,1,1
+Huggingface--3,base,3,1,1,0
+Huggingface--30,base,3,0,1,1
+Huggingface--31,base,3,0,1,1
+Huggingface--33,base,3,1,1,1
+Huggingface--34,base,3,0,1,1
+Huggingface--35,base,3,0,1,1
+Huggingface--36,base,3,1,1,1
+Huggingface--37,base,3,0,1,1
+Huggingface--38,base,3,0,1,1
+Huggingface--39,base,3,0,0,0
+Huggingface--4,base,3,1,1,0
+Huggingface--40,base,3,1,1,0
+Huggingface--41,base,3,1,1,1
+Huggingface--42,base,3,0,1,1
+Huggingface--5,base,3,1,1,0
+Huggingface--7,base,3,1,1,0
+Huggingface--8,base,3,0,1,0
+Huggingface--9,base,3,0,1,1
+Wolfram Alpha--0,base,3,1,1,0
+Wolfram Alpha--1,base,3,0,1,0
+Wolfram Alpha--10,base,3,1,1,0
+Wolfram Alpha--11,base,3,0,1,0
+Wolfram Alpha--12,base,3,0,1,0
+Wolfram Alpha--13,base,3,0,1,0
+Wolfram Alpha--14,base,3,1,1,0
+Wolfram Alpha--15,base,3,1,1,0
+Wolfram Alpha--16,base,3,1,1,0
+Wolfram Alpha--17,base,3,1,1,0
+Wolfram Alpha--18,base,3,0,1,0
+Wolfram Alpha--19,base,3,1,1,0
+Wolfram Alpha--2,base,3,1,1,0
+Wolfram Alpha--20,base,3,1,1,0
+Wolfram Alpha--21,base,3,1,1,0
+Wolfram Alpha--22,base,3,1,1,0
+Wolfram Alpha--23,base,3,1,1,0
+Wolfram Alpha--24,base,3,1,1,0
+Wolfram Alpha--25,base,3,0,1,0
+Wolfram Alpha--26,base,3,1,1,0
+Wolfram Alpha--27,base,3,0,1,0
+Wolfram Alpha--28,base,3,0,1,0
+Wolfram Alpha--29,base,3,1,1,0
+Wolfram Alpha--3,base,3,1,1,0
+Wolfram Alpha--30,base,3,0,1,0
+Wolfram Alpha--31,base,3,1,1,0
+Wolfram Alpha--32,base,3,1,1,0
+Wolfram Alpha--33,base,3,1,1,0
+Wolfram Alpha--34,base,3,1,1,0
+Wolfram Alpha--35,base,3,1,1,0
+Wolfram Alpha--36,base,3,1,1,0
+Wolfram Alpha--37,base,3,1,1,0
+Wolfram Alpha--38,base,3,1,1,0
+Wolfram Alpha--39,base,3,1,1,0
+Wolfram Alpha--4,base,3,0,1,1
+Wolfram Alpha--40,base,3,1,1,0
+Wolfram Alpha--41,base,3,1,1,0
+Wolfram Alpha--42,base,3,1,1,0
+Wolfram Alpha--43,base,3,1,1,0
+Wolfram Alpha--44,base,3,1,1,0
+Wolfram Alpha--45,base,3,0,1,0
+Wolfram Alpha--5,base,3,1,1,0
+Wolfram Alpha--6,base,3,0,0,0
+Wolfram Alpha--7,base,3,1,1,0
+Wolfram Alpha--8,base,3,1,1,0
+Wolfram Alpha--9,base,3,1,1,0
+Allrecipes--0,arm,1,1,1,0
+Allrecipes--1,arm,1,0,1,1
+Allrecipes--10,arm,1,0,0,1
+Allrecipes--11,arm,1,0,1,0
+Allrecipes--12,arm,1,0,1,1
+Allrecipes--13,arm,1,0,1,0
+Allrecipes--14,arm,1,0,1,0
+Allrecipes--15,arm,1,0,1,0
+Allrecipes--17,arm,1,0,1,0
+Allrecipes--18,arm,1,0,1,0
+Allrecipes--2,arm,1,1,1,0
+Allrecipes--20,arm,1,0,1,0
+Allrecipes--21,arm,1,0,1,0
+Allrecipes--22,arm,1,0,1,1
+Allrecipes--24,arm,1,0,1,1
+Allrecipes--25,arm,1,0,1,0
+Allrecipes--26,arm,1,0,1,1
+Allrecipes--27,arm,1,0,1,0
+Allrecipes--28,arm,1,0,1,1
+Allrecipes--29,arm,1,0,1,0
+Allrecipes--31,arm,1,0,1,0
+Allrecipes--32,arm,1,0,1,0
+Allrecipes--33,arm,1,0,1,0
+Allrecipes--34,arm,1,0,1,0
+Allrecipes--35,arm,1,0,1,0
+Allrecipes--36,arm,1,0,1,0
+Allrecipes--37,arm,1,0,1,0
+Allrecipes--38,arm,1,0,1,0
+Allrecipes--39,arm,1,0,1,1
+Allrecipes--4,arm,1,1,1,0
+Allrecipes--40,arm,1,0,1,0
+Allrecipes--41,arm,1,0,1,0
+Allrecipes--42,arm,1,0,1,0
+Allrecipes--43,arm,1,0,1,0
+Allrecipes--44,arm,1,0,1,0
+Allrecipes--5,arm,1,0,1,0
+Allrecipes--6,arm,1,0,1,0
+Allrecipes--7,arm,1,1,1,0
+Allrecipes--8,arm,1,0,1,0
+Allrecipes--9,arm,1,1,1,0
+Amazon--0,arm,1,1,1,0
+Amazon--1,arm,1,0,1,0
+Amazon--10,arm,1,1,1,0
+Amazon--11,arm,1,1,1,0
+Amazon--12,arm,1,0,1,1
+Amazon--13,arm,1,0,1,0
+Amazon--14,arm,1,1,1,0
+Amazon--15,arm,1,0,1,1
+Amazon--17,arm,1,0,1,1
+Amazon--18,arm,1,1,1,0
+Amazon--2,arm,1,1,1,0
+Amazon--20,arm,1,1,1,1
+Amazon--21,arm,1,0,1,1
+Amazon--22,arm,1,1,1,0
+Amazon--23,arm,1,0,1,1
+Amazon--24,arm,1,1,1,0
+Amazon--25,arm,1,1,1,0
+Amazon--26,arm,1,1,1,0
+Amazon--27,arm,1,1,1,0
+Amazon--28,arm,1,1,1,0
+Amazon--29,arm,1,1,1,0
+Amazon--3,arm,1,1,1,0
+Amazon--30,arm,1,1,1,0
+Amazon--31,arm,1,1,1,0
+Amazon--32,arm,1,0,1,1
+Amazon--33,arm,1,1,1,0
+Amazon--34,arm,1,1,1,0
+Amazon--35,arm,1,1,1,0
+Amazon--36,arm,1,1,1,0
+Amazon--37,arm,1,1,1,0
+Amazon--38,arm,1,0,1,1
+Amazon--39,arm,1,1,1,0
+Amazon--40,arm,1,0,1,1
+Amazon--5,arm,1,1,1,1
+Amazon--6,arm,1,0,1,0
+Amazon--7,arm,1,0,1,1
+Amazon--8,arm,1,0,1,1
+Amazon--9,arm,1,1,1,0
+Apple--0,arm,1,1,1,0
+Apple--10,arm,1,0,1,0
+Apple--11,arm,1,0,1,0
+Apple--12,arm,1,1,1,0
+Apple--13,arm,1,1,1,0
+Apple--15,arm,1,1,1,0
+Apple--16,arm,1,1,1,0
+Apple--17,arm,1,0,0,0
+Apple--18,arm,1,1,1,0
+Apple--19,arm,1,0,1,0
+Apple--21,arm,1,1,1,0
+Apple--23,arm,1,1,1,0
+Apple--24,arm,1,1,1,0
+Apple--25,arm,1,1,1,0
+Apple--26,arm,1,0,1,0
+Apple--27,arm,1,1,1,0
+Apple--28,arm,1,1,1,0
+Apple--29,arm,1,1,1,0
+Apple--3,arm,1,1,1,0
+Apple--30,arm,1,1,1,0
+Apple--31,arm,1,1,1,0
+Apple--33,arm,1,1,1,0
+Apple--34,arm,1,1,1,0
+Apple--35,arm,1,0,1,0
+Apple--36,arm,1,0,1,0
+Apple--38,arm,1,1,1,0
+Apple--39,arm,1,1,1,0
+Apple--40,arm,1,1,1,0
+Apple--5,arm,1,0,1,0
+Apple--6,arm,1,1,1,0
+Apple--8,arm,1,0,1,0
+Apple--9,arm,1,0,1,0
+ArXiv--0,arm,1,1,1,0
+ArXiv--1,arm,1,1,1,0
+ArXiv--10,arm,1,1,1,0
+ArXiv--12,arm,1,1,1,0
+ArXiv--13,arm,1,1,1,0
+ArXiv--14,arm,1,1,1,0
+ArXiv--15,arm,1,0,1,0
+ArXiv--16,arm,1,1,1,0
+ArXiv--17,arm,1,0,1,1
+ArXiv--18,arm,1,0,1,0
+ArXiv--19,arm,1,0,1,0
+ArXiv--2,arm,1,0,1,0
+ArXiv--20,arm,1,0,1,0
+ArXiv--21,arm,1,0,1,0
+ArXiv--22,arm,1,1,1,0
+ArXiv--23,arm,1,1,1,0
+ArXiv--24,arm,1,1,1,0
+ArXiv--25,arm,1,1,1,0
+ArXiv--26,arm,1,0,1,0
+ArXiv--27,arm,1,1,1,0
+ArXiv--28,arm,1,1,1,0
+ArXiv--29,arm,1,0,1,0
+ArXiv--3,arm,1,1,1,0
+ArXiv--30,arm,1,1,1,0
+ArXiv--31,arm,1,0,1,0
+ArXiv--32,arm,1,1,1,0
+ArXiv--33,arm,1,1,1,0
+ArXiv--34,arm,1,0,1,0
+ArXiv--35,arm,1,1,1,0
+ArXiv--36,arm,1,0,1,0
+ArXiv--37,arm,1,1,1,0
+ArXiv--38,arm,1,1,1,0
+ArXiv--39,arm,1,0,1,1
+ArXiv--4,arm,1,1,1,0
+ArXiv--40,arm,1,0,1,0
+ArXiv--41,arm,1,0,1,0
+ArXiv--42,arm,1,0,1,0
+ArXiv--5,arm,1,0,1,0
+ArXiv--6,arm,1,0,1,0
+ArXiv--7,arm,1,1,1,0
+ArXiv--8,arm,1,1,1,0
+ArXiv--9,arm,1,0,1,0
+BBC News--0,arm,1,1,1,0
+BBC News--1,arm,1,0,1,0
+BBC News--11,arm,1,0,1,0
+BBC News--12,arm,1,0,1,0
+BBC News--13,arm,1,0,1,0
+BBC News--15,arm,1,1,1,0
+BBC News--17,arm,1,0,1,0
+BBC News--19,arm,1,1,1,0
+BBC News--20,arm,1,1,1,0
+BBC News--22,arm,1,0,1,0
+BBC News--23,arm,1,1,1,0
+BBC News--24,arm,1,0,1,0
+BBC News--25,arm,1,1,1,0
+BBC News--27,arm,1,1,1,0
+BBC News--28,arm,1,0,1,0
+BBC News--3,arm,1,1,1,0
+BBC News--30,arm,1,0,1,0
+BBC News--31,arm,1,1,1,0
+BBC News--32,arm,1,0,1,0
+BBC News--34,arm,1,1,1,0
+BBC News--35,arm,1,0,1,0
+BBC News--36,arm,1,1,1,0
+BBC News--37,arm,1,1,1,0
+BBC News--38,arm,1,1,1,0
+BBC News--39,arm,1,1,1,0
+BBC News--4,arm,1,0,1,0
+BBC News--40,arm,1,1,1,0
+BBC News--41,arm,1,0,1,0
+BBC News--6,arm,1,1,1,0
+BBC News--7,arm,1,1,1,0
+BBC News--8,arm,1,1,1,0
+BBC News--9,arm,1,1,1,0
+Booking--0,arm,1,0,1,0
+Booking--1,arm,1,0,1,0
+Booking--11,arm,1,0,1,0
+Booking--12,arm,1,0,1,0
+Booking--13,arm,1,0,1,0
+Booking--14,arm,1,0,1,0
+Booking--15,arm,1,0,1,0
+Booking--16,arm,1,0,1,0
+Booking--17,arm,1,0,1,0
+Booking--18,arm,1,0,1,0
+Booking--19,arm,1,0,1,0
+Booking--2,arm,1,0,1,0
+Booking--20,arm,1,0,1,0
+Booking--21,arm,1,0,1,0
+Booking--22,arm,1,0,1,0
+Booking--23,arm,1,0,1,0
+Booking--24,arm,1,0,1,0
+Booking--25,arm,1,0,1,0
+Booking--26,arm,1,0,1,0
+Booking--27,arm,1,1,1,0
+Booking--28,arm,1,1,1,0
+Booking--29,arm,1,0,1,0
+Booking--3,arm,1,0,1,0
+Booking--30,arm,1,0,1,0
+Booking--31,arm,1,0,1,0
+Booking--32,arm,1,0,1,0
+Booking--33,arm,1,1,1,0
+Booking--34,arm,1,0,1,0
+Booking--35,arm,1,1,1,0
+Booking--36,arm,1,0,1,0
+Booking--37,arm,1,0,1,0
+Booking--38,arm,1,0,1,0
+Booking--39,arm,1,0,1,0
+Booking--4,arm,1,0,1,0
+Booking--40,arm,1,0,1,0
+Booking--41,arm,1,1,1,0
+Booking--42,arm,1,0,1,0
+Booking--43,arm,1,1,1,0
+Booking--5,arm,1,0,1,0
+Booking--6,arm,1,0,1,0
+Booking--7,arm,1,1,1,0
+Booking--8,arm,1,0,1,0
+Booking--9,arm,1,0,1,0
+Cambridge Dictionary--0,arm,1,0,1,1
+Cambridge Dictionary--1,arm,1,1,1,1
+Cambridge Dictionary--10,arm,1,1,1,1
+Cambridge Dictionary--11,arm,1,1,1,1
+Cambridge Dictionary--12,arm,1,0,1,1
+Cambridge Dictionary--13,arm,1,0,1,1
+Cambridge Dictionary--14,arm,1,0,1,1
+Cambridge Dictionary--15,arm,1,1,1,1
+Cambridge Dictionary--16,arm,1,0,1,1
+Cambridge Dictionary--17,arm,1,0,1,1
+Cambridge Dictionary--18,arm,1,0,1,1
+Cambridge Dictionary--19,arm,1,0,1,1
+Cambridge Dictionary--2,arm,1,1,1,1
+Cambridge Dictionary--20,arm,1,0,1,1
+Cambridge Dictionary--21,arm,1,0,1,1
+Cambridge Dictionary--22,arm,1,0,1,1
+Cambridge Dictionary--23,arm,1,0,1,1
+Cambridge Dictionary--24,arm,1,0,1,1
+Cambridge Dictionary--25,arm,1,0,1,1
+Cambridge Dictionary--26,arm,1,0,1,1
+Cambridge Dictionary--27,arm,1,0,1,1
+Cambridge Dictionary--28,arm,1,0,1,1
+Cambridge Dictionary--29,arm,1,0,1,1
+Cambridge Dictionary--3,arm,1,1,1,1
+Cambridge Dictionary--30,arm,1,0,1,1
+Cambridge Dictionary--31,arm,1,0,1,1
+Cambridge Dictionary--32,arm,1,0,1,1
+Cambridge Dictionary--33,arm,1,0,1,1
+Cambridge Dictionary--34,arm,1,0,1,1
+Cambridge Dictionary--35,arm,1,0,1,1
+Cambridge Dictionary--36,arm,1,0,1,1
+Cambridge Dictionary--37,arm,1,0,1,1
+Cambridge Dictionary--38,arm,1,0,1,1
+Cambridge Dictionary--39,arm,1,0,1,1
+Cambridge Dictionary--4,arm,1,0,1,1
+Cambridge Dictionary--40,arm,1,1,1,1
+Cambridge Dictionary--41,arm,1,0,1,1
+Cambridge Dictionary--42,arm,1,0,1,1
+Cambridge Dictionary--5,arm,1,1,1,1
+Cambridge Dictionary--6,arm,1,0,1,1
+Cambridge Dictionary--7,arm,1,0,1,1
+Cambridge Dictionary--8,arm,1,0,1,1
+Cambridge Dictionary--9,arm,1,0,1,1
+Coursera--0,arm,1,1,1,0
+Coursera--1,arm,1,1,1,0
+Coursera--10,arm,1,1,1,0
+Coursera--11,arm,1,1,1,0
+Coursera--12,arm,1,1,1,0
+Coursera--13,arm,1,1,1,0
+Coursera--14,arm,1,1,1,0
+Coursera--15,arm,1,0,1,0
+Coursera--16,arm,1,0,1,0
+Coursera--18,arm,1,1,1,0
+Coursera--19,arm,1,1,1,0
+Coursera--2,arm,1,1,1,0
+Coursera--20,arm,1,1,1,0
+Coursera--21,arm,1,1,1,0
+Coursera--22,arm,1,1,1,0
+Coursera--23,arm,1,1,1,0
+Coursera--24,arm,1,1,1,0
+Coursera--25,arm,1,1,1,0
+Coursera--26,arm,1,1,1,0
+Coursera--27,arm,1,1,1,0
+Coursera--29,arm,1,1,1,0
+Coursera--3,arm,1,0,1,0
+Coursera--30,arm,1,1,1,0
+Coursera--31,arm,1,1,1,0
+Coursera--32,arm,1,0,1,0
+Coursera--33,arm,1,1,1,0
+Coursera--34,arm,1,1,1,0
+Coursera--35,arm,1,0,1,0
+Coursera--36,arm,1,0,1,0
+Coursera--37,arm,1,1,1,0
+Coursera--38,arm,1,0,1,0
+Coursera--39,arm,1,1,1,0
+Coursera--4,arm,1,1,1,0
+Coursera--40,arm,1,1,1,0
+Coursera--41,arm,1,1,1,0
+Coursera--5,arm,1,1,1,0
+Coursera--6,arm,1,1,1,0
+Coursera--7,arm,1,1,1,0
+Coursera--8,arm,1,1,1,0
+Coursera--9,arm,1,0,1,0
+ESPN--0,arm,1,1,1,0
+ESPN--1,arm,1,1,1,0
+ESPN--10,arm,1,0,1,0
+ESPN--11,arm,1,1,1,0
+ESPN--12,arm,1,1,1,0
+ESPN--13,arm,1,1,1,0
+ESPN--14,arm,1,1,1,0
+ESPN--15,arm,1,0,1,0
+ESPN--16,arm,1,0,1,0
+ESPN--17,arm,1,0,1,0
+ESPN--18,arm,1,1,1,0
+ESPN--19,arm,1,1,1,0
+ESPN--20,arm,1,0,1,0
+ESPN--22,arm,1,1,1,0
+ESPN--23,arm,1,0,1,0
+ESPN--24,arm,1,1,1,0
+ESPN--25,arm,1,0,1,0
+ESPN--27,arm,1,1,1,0
+ESPN--28,arm,1,0,1,0
+ESPN--29,arm,1,1,1,0
+ESPN--3,arm,1,0,1,0
+ESPN--30,arm,1,0,1,0
+ESPN--31,arm,1,1,1,0
+ESPN--32,arm,1,0,1,0
+ESPN--33,arm,1,0,1,0
+ESPN--34,arm,1,1,1,0
+ESPN--35,arm,1,1,1,0
+ESPN--36,arm,1,0,1,0
+ESPN--37,arm,1,1,1,0
+ESPN--39,arm,1,0,1,0
+ESPN--40,arm,1,0,1,0
+ESPN--41,arm,1,1,1,0
+ESPN--5,arm,1,0,1,0
+ESPN--6,arm,1,0,1,0
+ESPN--7,arm,1,1,1,0
+ESPN--8,arm,1,0,1,0
+ESPN--9,arm,1,1,1,0
+GitHub--0,arm,1,1,1,0
+GitHub--1,arm,1,1,1,0
+GitHub--10,arm,1,1,1,0
+GitHub--11,arm,1,0,1,0
+GitHub--12,arm,1,1,1,0
+GitHub--13,arm,1,1,1,0
+GitHub--14,arm,1,1,1,0
+GitHub--15,arm,1,1,1,0
+GitHub--16,arm,1,0,1,0
+GitHub--17,arm,1,1,1,0
+GitHub--18,arm,1,1,1,0
+GitHub--19,arm,1,1,1,0
+GitHub--2,arm,1,1,1,0
+GitHub--20,arm,1,1,1,0
+GitHub--21,arm,1,1,1,0
+GitHub--22,arm,1,0,1,0
+GitHub--23,arm,1,0,1,0
+GitHub--24,arm,1,1,1,0
+GitHub--25,arm,1,1,1,0
+GitHub--26,arm,1,1,1,0
+GitHub--27,arm,1,1,1,0
+GitHub--28,arm,1,1,1,0
+GitHub--29,arm,1,1,1,0
+GitHub--3,arm,1,1,1,0
+GitHub--30,arm,1,0,1,0
+GitHub--31,arm,1,0,1,0
+GitHub--32,arm,1,1,1,0
+GitHub--33,arm,1,1,1,0
+GitHub--34,arm,1,1,1,0
+GitHub--35,arm,1,1,1,0
+GitHub--36,arm,1,0,1,0
+GitHub--37,arm,1,1,1,0
+GitHub--38,arm,1,0,1,0
+GitHub--39,arm,1,1,1,0
+GitHub--4,arm,1,0,1,0
+GitHub--40,arm,1,0,1,0
+GitHub--5,arm,1,0,1,0
+GitHub--6,arm,1,1,1,0
+GitHub--7,arm,1,1,1,0
+GitHub--8,arm,1,1,1,0
+GitHub--9,arm,1,1,1,0
+Google Flights--0,arm,1,1,1,0
+Google Flights--1,arm,1,1,1,0
+Google Flights--10,arm,1,0,1,0
+Google Flights--11,arm,1,1,1,0
+Google Flights--12,arm,1,0,1,0
+Google Flights--13,arm,1,0,1,0
+Google Flights--14,arm,1,0,1,0
+Google Flights--15,arm,1,1,1,0
+Google Flights--16,arm,1,0,1,0
+Google Flights--17,arm,1,0,1,0
+Google Flights--18,arm,1,0,1,0
+Google Flights--19,arm,1,1,1,0
+Google Flights--2,arm,1,1,1,0
+Google Flights--20,arm,1,0,1,0
+Google Flights--21,arm,1,1,1,0
+Google Flights--22,arm,1,0,1,0
+Google Flights--23,arm,1,1,1,0
+Google Flights--24,arm,1,0,1,0
+Google Flights--25,arm,1,0,1,0
+Google Flights--26,arm,1,0,1,0
+Google Flights--27,arm,1,0,1,0
+Google Flights--28,arm,1,0,1,0
+Google Flights--29,arm,1,0,1,0
+Google Flights--3,arm,1,1,1,0
+Google Flights--30,arm,1,1,1,0
+Google Flights--31,arm,1,0,0,0
+Google Flights--32,arm,1,0,1,0
+Google Flights--33,arm,1,1,1,0
+Google Flights--34,arm,1,1,1,0
+Google Flights--35,arm,1,0,1,0
+Google Flights--36,arm,1,1,1,0
+Google Flights--37,arm,1,0,1,0
+Google Flights--38,arm,1,0,1,0
+Google Flights--39,arm,1,0,1,0
+Google Flights--4,arm,1,0,1,0
+Google Flights--40,arm,1,0,1,0
+Google Flights--41,arm,1,0,1,0
+Google Flights--5,arm,1,0,1,0
+Google Flights--6,arm,1,1,1,0
+Google Flights--8,arm,1,0,1,0
+Google Flights--9,arm,1,1,1,0
+Google Map--0,arm,1,0,1,0
+Google Map--1,arm,1,1,1,0
+Google Map--10,arm,1,1,1,0
+Google Map--11,arm,1,1,1,0
+Google Map--12,arm,1,0,1,0
+Google Map--13,arm,1,0,1,0
+Google Map--14,arm,1,1,1,0
+Google Map--15,arm,1,0,1,0
+Google Map--16,arm,1,1,1,0
+Google Map--17,arm,1,0,1,0
+Google Map--18,arm,1,1,1,0
+Google Map--19,arm,1,1,1,0
+Google Map--2,arm,1,0,1,0
+Google Map--20,arm,1,1,1,0
+Google Map--21,arm,1,1,1,0
+Google Map--22,arm,1,0,1,0
+Google Map--23,arm,1,0,1,0
+Google Map--24,arm,1,1,1,0
+Google Map--25,arm,1,0,1,0
+Google Map--27,arm,1,0,1,0
+Google Map--28,arm,1,1,1,0
+Google Map--29,arm,1,1,1,0
+Google Map--3,arm,1,0,1,0
+Google Map--30,arm,1,0,1,0
+Google Map--31,arm,1,0,1,0
+Google Map--32,arm,1,0,1,0
+Google Map--33,arm,1,0,1,0
+Google Map--34,arm,1,1,1,0
+Google Map--35,arm,1,1,1,0
+Google Map--36,arm,1,0,1,0
+Google Map--37,arm,1,1,1,0
+Google Map--38,arm,1,1,1,0
+Google Map--39,arm,1,1,1,0
+Google Map--4,arm,1,1,1,0
+Google Map--40,arm,1,0,0,0
+Google Map--5,arm,1,1,1,0
+Google Map--6,arm,1,1,1,0
+Google Map--7,arm,1,1,1,0
+Google Map--8,arm,1,0,1,0
+Google Map--9,arm,1,0,1,0
+Google Search--0,arm,1,1,1,1
+Google Search--1,arm,1,1,1,1
+Google Search--10,arm,1,0,0,1
+Google Search--11,arm,1,0,1,0
+Google Search--12,arm,1,0,1,1
+Google Search--13,arm,1,0,1,1
+Google Search--14,arm,1,0,1,1
+Google Search--15,arm,1,0,1,0
+Google Search--16,arm,1,0,1,1
+Google Search--17,arm,1,1,1,1
+Google Search--18,arm,1,1,1,1
+Google Search--19,arm,1,1,1,1
+Google Search--2,arm,1,0,1,1
+Google Search--20,arm,1,0,1,1
+Google Search--21,arm,1,1,1,1
+Google Search--22,arm,1,0,1,1
+Google Search--23,arm,1,0,1,1
+Google Search--24,arm,1,0,1,1
+Google Search--25,arm,1,1,1,1
+Google Search--26,arm,1,0,1,1
+Google Search--27,arm,1,1,1,1
+Google Search--28,arm,1,0,1,1
+Google Search--29,arm,1,1,1,1
+Google Search--3,arm,1,0,1,1
+Google Search--30,arm,1,0,1,1
+Google Search--31,arm,1,1,1,1
+Google Search--32,arm,1,0,1,1
+Google Search--33,arm,1,1,1,0
+Google Search--34,arm,1,0,1,1
+Google Search--35,arm,1,1,1,1
+Google Search--36,arm,1,0,1,1
+Google Search--37,arm,1,0,1,1
+Google Search--38,arm,1,0,1,1
+Google Search--39,arm,1,0,1,1
+Google Search--4,arm,1,0,1,1
+Google Search--40,arm,1,1,1,1
+Google Search--41,arm,1,1,1,1
+Google Search--42,arm,1,1,1,1
+Google Search--5,arm,1,1,1,1
+Google Search--6,arm,1,0,1,1
+Google Search--7,arm,1,1,1,1
+Google Search--8,arm,1,1,1,1
+Google Search--9,arm,1,0,1,1
+Huggingface--0,arm,1,0,1,0
+Huggingface--11,arm,1,0,1,0
+Huggingface--12,arm,1,0,1,0
+Huggingface--13,arm,1,1,1,1
+Huggingface--14,arm,1,1,1,0
+Huggingface--15,arm,1,0,1,1
+Huggingface--16,arm,1,0,1,1
+Huggingface--17,arm,1,0,1,1
+Huggingface--18,arm,1,1,1,1
+Huggingface--19,arm,1,1,1,0
+Huggingface--2,arm,1,0,1,0
+Huggingface--21,arm,1,0,1,1
+Huggingface--22,arm,1,0,1,1
+Huggingface--24,arm,1,0,1,1
+Huggingface--25,arm,1,0,1,1
+Huggingface--26,arm,1,1,1,1
+Huggingface--27,arm,1,0,1,1
+Huggingface--28,arm,1,1,1,1
+Huggingface--29,arm,1,0,1,1
+Huggingface--3,arm,1,1,1,0
+Huggingface--30,arm,1,0,1,1
+Huggingface--31,arm,1,0,1,1
+Huggingface--33,arm,1,1,1,1
+Huggingface--34,arm,1,0,1,1
+Huggingface--35,arm,1,0,1,1
+Huggingface--36,arm,1,0,1,1
+Huggingface--37,arm,1,1,1,1
+Huggingface--38,arm,1,1,1,1
+Huggingface--39,arm,1,0,1,1
+Huggingface--4,arm,1,1,1,0
+Huggingface--40,arm,1,1,1,1
+Huggingface--41,arm,1,1,1,0
+Huggingface--42,arm,1,1,1,0
+Huggingface--5,arm,1,1,1,0
+Huggingface--7,arm,1,1,1,0
+Huggingface--8,arm,1,1,1,0
+Huggingface--9,arm,1,1,1,0
+Wolfram Alpha--0,arm,1,1,1,0
+Wolfram Alpha--1,arm,1,0,1,0
+Wolfram Alpha--10,arm,1,0,1,0
+Wolfram Alpha--11,arm,1,0,1,0
+Wolfram Alpha--12,arm,1,0,1,1
+Wolfram Alpha--13,arm,1,0,1,0
+Wolfram Alpha--14,arm,1,1,1,0
+Wolfram Alpha--15,arm,1,1,1,0
+Wolfram Alpha--16,arm,1,0,1,0
+Wolfram Alpha--17,arm,1,1,1,0
+Wolfram Alpha--18,arm,1,0,1,0
+Wolfram Alpha--19,arm,1,1,1,0
+Wolfram Alpha--2,arm,1,1,1,0
+Wolfram Alpha--20,arm,1,1,1,0
+Wolfram Alpha--21,arm,1,1,1,0
+Wolfram Alpha--22,arm,1,1,1,0
+Wolfram Alpha--23,arm,1,1,1,0
+Wolfram Alpha--24,arm,1,1,1,0
+Wolfram Alpha--25,arm,1,0,1,0
+Wolfram Alpha--26,arm,1,1,1,0
+Wolfram Alpha--27,arm,1,1,1,0
+Wolfram Alpha--28,arm,1,0,1,0
+Wolfram Alpha--29,arm,1,1,1,0
+Wolfram Alpha--3,arm,1,1,1,0
+Wolfram Alpha--30,arm,1,0,1,1
+Wolfram Alpha--31,arm,1,1,1,0
+Wolfram Alpha--32,arm,1,1,1,0
+Wolfram Alpha--33,arm,1,0,1,0
+Wolfram Alpha--34,arm,1,1,1,0
+Wolfram Alpha--35,arm,1,1,1,0
+Wolfram Alpha--36,arm,1,0,1,0
+Wolfram Alpha--37,arm,1,1,1,0
+Wolfram Alpha--38,arm,1,1,1,0
+Wolfram Alpha--39,arm,1,0,1,0
+Wolfram Alpha--4,arm,1,0,1,0
+Wolfram Alpha--40,arm,1,1,1,0
+Wolfram Alpha--41,arm,1,1,1,0
+Wolfram Alpha--42,arm,1,1,1,1
+Wolfram Alpha--43,arm,1,1,1,0
+Wolfram Alpha--44,arm,1,0,1,0
+Wolfram Alpha--45,arm,1,0,1,0
+Wolfram Alpha--5,arm,1,0,1,0
+Wolfram Alpha--6,arm,1,1,1,0
+Wolfram Alpha--7,arm,1,0,1,0
+Wolfram Alpha--8,arm,1,1,1,0
+Wolfram Alpha--9,arm,1,1,1,0
+Allrecipes--0,arm,2,1,1,0
+Allrecipes--1,arm,2,1,1,0
+Allrecipes--10,arm,2,0,0,0
+Allrecipes--11,arm,2,0,1,0
+Allrecipes--12,arm,2,0,1,0
+Allrecipes--13,arm,2,0,1,0
+Allrecipes--14,arm,2,0,1,0
+Allrecipes--15,arm,2,0,1,0
+Allrecipes--17,arm,2,0,1,0
+Allrecipes--18,arm,2,0,1,0
+Allrecipes--2,arm,2,1,1,0
+Allrecipes--20,arm,2,0,1,0
+Allrecipes--21,arm,2,0,1,1
+Allrecipes--22,arm,2,0,1,0
+Allrecipes--24,arm,2,0,1,1
+Allrecipes--25,arm,2,0,0,1
+Allrecipes--26,arm,2,0,1,1
+Allrecipes--27,arm,2,0,1,1
+Allrecipes--28,arm,2,0,1,1
+Allrecipes--29,arm,2,0,1,0
+Allrecipes--31,arm,2,0,1,0
+Allrecipes--32,arm,2,0,1,1
+Allrecipes--33,arm,2,0,1,0
+Allrecipes--34,arm,2,0,1,0
+Allrecipes--35,arm,2,0,1,0
+Allrecipes--36,arm,2,0,1,0
+Allrecipes--37,arm,2,0,1,0
+Allrecipes--38,arm,2,0,1,1
+Allrecipes--39,arm,2,0,1,0
+Allrecipes--4,arm,2,1,1,0
+Allrecipes--40,arm,2,0,1,0
+Allrecipes--41,arm,2,0,1,0
+Allrecipes--42,arm,2,0,1,1
+Allrecipes--43,arm,2,0,1,0
+Allrecipes--44,arm,2,0,1,0
+Allrecipes--5,arm,2,0,1,0
+Allrecipes--6,arm,2,0,1,0
+Allrecipes--7,arm,2,1,1,0
+Allrecipes--8,arm,2,0,1,0
+Allrecipes--9,arm,2,1,1,1
+Amazon--0,arm,2,0,1,1
+Amazon--1,arm,2,0,1,0
+Amazon--10,arm,2,0,1,1
+Amazon--11,arm,2,0,1,1
+Amazon--12,arm,2,0,1,1
+Amazon--13,arm,2,1,1,0
+Amazon--14,arm,2,1,1,0
+Amazon--15,arm,2,0,1,1
+Amazon--17,arm,2,1,1,0
+Amazon--18,arm,2,1,1,0
+Amazon--2,arm,2,1,1,0
+Amazon--20,arm,2,0,1,0
+Amazon--21,arm,2,0,1,1
+Amazon--22,arm,2,1,1,0
+Amazon--23,arm,2,0,1,1
+Amazon--24,arm,2,1,1,1
+Amazon--25,arm,2,0,1,1
+Amazon--26,arm,2,1,1,0
+Amazon--27,arm,2,1,1,0
+Amazon--28,arm,2,1,1,1
+Amazon--29,arm,2,1,1,0
+Amazon--3,arm,2,1,1,0
+Amazon--30,arm,2,0,1,0
+Amazon--31,arm,2,0,1,1
+Amazon--32,arm,2,0,1,0
+Amazon--33,arm,2,1,1,0
+Amazon--34,arm,2,1,1,0
+Amazon--35,arm,2,0,1,1
+Amazon--36,arm,2,1,1,0
+Amazon--37,arm,2,1,1,0
+Amazon--38,arm,2,1,1,0
+Amazon--39,arm,2,0,0,1
+Amazon--40,arm,2,1,1,0
+Amazon--5,arm,2,0,1,1
+Amazon--6,arm,2,0,1,0
+Amazon--7,arm,2,0,1,0
+Amazon--8,arm,2,1,1,0
+Amazon--9,arm,2,1,1,1
+Apple--0,arm,2,1,1,0
+Apple--10,arm,2,1,1,0
+Apple--11,arm,2,0,1,0
+Apple--12,arm,2,1,1,0
+Apple--13,arm,2,1,1,0
+Apple--15,arm,2,1,1,0
+Apple--16,arm,2,0,1,0
+Apple--17,arm,2,0,1,0
+Apple--18,arm,2,1,1,0
+Apple--19,arm,2,0,1,0
+Apple--21,arm,2,1,1,0
+Apple--23,arm,2,1,1,0
+Apple--24,arm,2,1,1,0
+Apple--25,arm,2,0,1,0
+Apple--26,arm,2,1,1,0
+Apple--27,arm,2,0,1,0
+Apple--28,arm,2,1,1,0
+Apple--29,arm,2,1,1,0
+Apple--3,arm,2,1,1,0
+Apple--30,arm,2,1,1,0
+Apple--31,arm,2,1,1,0
+Apple--33,arm,2,0,1,0
+Apple--34,arm,2,1,1,0
+Apple--35,arm,2,1,1,0
+Apple--36,arm,2,0,1,0
+Apple--38,arm,2,1,1,0
+Apple--39,arm,2,1,1,0
+Apple--40,arm,2,0,1,0
+Apple--5,arm,2,0,1,0
+Apple--6,arm,2,0,1,0
+Apple--8,arm,2,0,1,0
+Apple--9,arm,2,0,1,0
+ArXiv--0,arm,2,1,1,0
+ArXiv--1,arm,2,0,1,0
+ArXiv--10,arm,2,1,1,0
+ArXiv--12,arm,2,1,1,0
+ArXiv--13,arm,2,0,1,0
+ArXiv--14,arm,2,0,1,0
+ArXiv--15,arm,2,1,1,0
+ArXiv--16,arm,2,1,1,0
+ArXiv--17,arm,2,0,1,1
+ArXiv--18,arm,2,0,1,0
+ArXiv--19,arm,2,1,1,0
+ArXiv--2,arm,2,0,1,0
+ArXiv--20,arm,2,1,1,0
+ArXiv--21,arm,2,0,1,0
+ArXiv--22,arm,2,1,1,0
+ArXiv--23,arm,2,0,1,0
+ArXiv--24,arm,2,0,1,0
+ArXiv--25,arm,2,0,1,0
+ArXiv--26,arm,2,1,1,0
+ArXiv--27,arm,2,1,1,0
+ArXiv--28,arm,2,0,1,0
+ArXiv--29,arm,2,0,1,0
+ArXiv--3,arm,2,1,1,0
+ArXiv--30,arm,2,1,1,0
+ArXiv--31,arm,2,0,1,0
+ArXiv--32,arm,2,1,1,0
+ArXiv--33,arm,2,1,1,0
+ArXiv--34,arm,2,0,1,1
+ArXiv--35,arm,2,1,1,0
+ArXiv--36,arm,2,0,1,0
+ArXiv--37,arm,2,1,1,0
+ArXiv--38,arm,2,0,0,0
+ArXiv--39,arm,2,0,1,0
+ArXiv--4,arm,2,1,1,0
+ArXiv--40,arm,2,0,1,0
+ArXiv--41,arm,2,0,1,0
+ArXiv--42,arm,2,0,1,0
+ArXiv--5,arm,2,0,1,0
+ArXiv--6,arm,2,0,1,0
+ArXiv--7,arm,2,1,1,0
+ArXiv--8,arm,2,0,1,0
+ArXiv--9,arm,2,0,1,0
+BBC News--0,arm,2,0,1,0
+BBC News--1,arm,2,0,1,0
+BBC News--11,arm,2,0,1,0
+BBC News--12,arm,2,0,1,0
+BBC News--13,arm,2,0,1,0
+BBC News--15,arm,2,1,1,0
+BBC News--17,arm,2,0,1,0
+BBC News--19,arm,2,1,1,0
+BBC News--20,arm,2,1,1,0
+BBC News--22,arm,2,1,1,0
+BBC News--23,arm,2,1,1,0
+BBC News--24,arm,2,0,1,0
+BBC News--25,arm,2,1,1,0
+BBC News--27,arm,2,0,1,0
+BBC News--28,arm,2,0,1,0
+BBC News--3,arm,2,1,1,0
+BBC News--30,arm,2,0,1,0
+BBC News--31,arm,2,1,1,0
+BBC News--32,arm,2,0,1,0
+BBC News--34,arm,2,0,1,0
+BBC News--35,arm,2,1,1,0
+BBC News--36,arm,2,1,1,0
+BBC News--37,arm,2,0,1,0
+BBC News--38,arm,2,1,1,0
+BBC News--39,arm,2,1,1,0
+BBC News--4,arm,2,0,1,0
+BBC News--40,arm,2,1,1,0
+BBC News--41,arm,2,0,1,0
+BBC News--6,arm,2,1,1,0
+BBC News--7,arm,2,1,1,0
+BBC News--8,arm,2,0,1,0
+BBC News--9,arm,2,1,1,0
+Booking--0,arm,2,0,1,0
+Booking--1,arm,2,0,1,0
+Booking--11,arm,2,0,1,0
+Booking--12,arm,2,0,1,0
+Booking--13,arm,2,0,1,0
+Booking--14,arm,2,0,1,0
+Booking--15,arm,2,0,1,0
+Booking--16,arm,2,0,1,0
+Booking--17,arm,2,0,1,0
+Booking--18,arm,2,0,1,0
+Booking--19,arm,2,0,1,0
+Booking--2,arm,2,0,1,0
+Booking--20,arm,2,0,1,0
+Booking--21,arm,2,0,1,0
+Booking--22,arm,2,0,1,0
+Booking--23,arm,2,0,1,0
+Booking--24,arm,2,0,1,0
+Booking--25,arm,2,0,1,0
+Booking--26,arm,2,0,1,0
+Booking--27,arm,2,1,1,0
+Booking--28,arm,2,0,1,0
+Booking--29,arm,2,0,1,0
+Booking--3,arm,2,0,1,0
+Booking--30,arm,2,0,1,0
+Booking--31,arm,2,0,1,0
+Booking--32,arm,2,0,1,0
+Booking--33,arm,2,1,1,0
+Booking--34,arm,2,0,1,0
+Booking--35,arm,2,1,1,0
+Booking--36,arm,2,0,1,0
+Booking--37,arm,2,0,1,0
+Booking--38,arm,2,0,1,0
+Booking--39,arm,2,0,1,0
+Booking--4,arm,2,0,1,0
+Booking--40,arm,2,1,1,0
+Booking--41,arm,2,0,1,0
+Booking--42,arm,2,0,1,0
+Booking--43,arm,2,1,1,0
+Booking--5,arm,2,0,1,0
+Booking--6,arm,2,0,1,0
+Booking--7,arm,2,1,1,0
+Booking--8,arm,2,0,1,0
+Booking--9,arm,2,0,1,0
+Cambridge Dictionary--0,arm,2,0,1,1
+Cambridge Dictionary--1,arm,2,1,1,1
+Cambridge Dictionary--10,arm,2,1,1,1
+Cambridge Dictionary--11,arm,2,1,1,1
+Cambridge Dictionary--12,arm,2,0,1,1
+Cambridge Dictionary--13,arm,2,0,1,1
+Cambridge Dictionary--14,arm,2,0,1,1
+Cambridge Dictionary--15,arm,2,1,1,1
+Cambridge Dictionary--16,arm,2,0,1,1
+Cambridge Dictionary--17,arm,2,0,1,1
+Cambridge Dictionary--18,arm,2,0,1,1
+Cambridge Dictionary--19,arm,2,1,1,1
+Cambridge Dictionary--2,arm,2,0,1,1
+Cambridge Dictionary--20,arm,2,0,1,1
+Cambridge Dictionary--21,arm,2,0,1,1
+Cambridge Dictionary--22,arm,2,1,1,1
+Cambridge Dictionary--23,arm,2,0,1,1
+Cambridge Dictionary--24,arm,2,0,1,1
+Cambridge Dictionary--25,arm,2,0,1,1
+Cambridge Dictionary--26,arm,2,1,1,1
+Cambridge Dictionary--27,arm,2,0,1,1
+Cambridge Dictionary--28,arm,2,0,1,1
+Cambridge Dictionary--29,arm,2,0,1,1
+Cambridge Dictionary--3,arm,2,1,1,1
+Cambridge Dictionary--30,arm,2,0,1,1
+Cambridge Dictionary--31,arm,2,0,1,1
+Cambridge Dictionary--32,arm,2,0,1,1
+Cambridge Dictionary--33,arm,2,0,1,1
+Cambridge Dictionary--34,arm,2,0,1,1
+Cambridge Dictionary--35,arm,2,0,1,1
+Cambridge Dictionary--36,arm,2,0,1,1
+Cambridge Dictionary--37,arm,2,0,1,1
+Cambridge Dictionary--38,arm,2,0,1,1
+Cambridge Dictionary--39,arm,2,0,1,1
+Cambridge Dictionary--4,arm,2,0,1,1
+Cambridge Dictionary--40,arm,2,1,1,1
+Cambridge Dictionary--41,arm,2,0,1,1
+Cambridge Dictionary--42,arm,2,0,1,1
+Cambridge Dictionary--5,arm,2,0,1,1
+Cambridge Dictionary--6,arm,2,0,1,1
+Cambridge Dictionary--7,arm,2,0,1,1
+Cambridge Dictionary--8,arm,2,0,1,1
+Cambridge Dictionary--9,arm,2,0,1,1
+Coursera--0,arm,2,1,1,0
+Coursera--1,arm,2,1,1,0
+Coursera--10,arm,2,1,1,0
+Coursera--11,arm,2,1,1,0
+Coursera--12,arm,2,1,1,0
+Coursera--13,arm,2,1,1,0
+Coursera--14,arm,2,1,1,0
+Coursera--15,arm,2,1,1,0
+Coursera--16,arm,2,0,1,0
+Coursera--18,arm,2,1,1,0
+Coursera--19,arm,2,1,1,0
+Coursera--2,arm,2,1,1,0
+Coursera--20,arm,2,1,1,0
+Coursera--21,arm,2,1,1,0
+Coursera--22,arm,2,1,1,0
+Coursera--23,arm,2,1,1,0
+Coursera--24,arm,2,1,1,0
+Coursera--25,arm,2,1,1,0
+Coursera--26,arm,2,1,1,0
+Coursera--27,arm,2,1,1,0
+Coursera--29,arm,2,1,1,0
+Coursera--3,arm,2,1,1,0
+Coursera--30,arm,2,1,1,0
+Coursera--31,arm,2,1,1,0
+Coursera--32,arm,2,0,1,0
+Coursera--33,arm,2,1,1,0
+Coursera--34,arm,2,1,1,0
+Coursera--35,arm,2,1,1,0
+Coursera--36,arm,2,1,1,0
+Coursera--37,arm,2,1,1,0
+Coursera--38,arm,2,0,1,0
+Coursera--39,arm,2,0,1,0
+Coursera--4,arm,2,1,1,0
+Coursera--40,arm,2,0,1,0
+Coursera--41,arm,2,1,1,0
+Coursera--5,arm,2,1,1,0
+Coursera--6,arm,2,1,1,0
+Coursera--7,arm,2,1,1,0
+Coursera--8,arm,2,1,1,0
+Coursera--9,arm,2,1,1,0
+ESPN--0,arm,2,1,1,0
+ESPN--1,arm,2,1,1,0
+ESPN--10,arm,2,0,1,0
+ESPN--11,arm,2,1,1,0
+ESPN--12,arm,2,1,1,0
+ESPN--13,arm,2,1,1,0
+ESPN--14,arm,2,1,1,0
+ESPN--15,arm,2,0,1,0
+ESPN--16,arm,2,0,1,0
+ESPN--17,arm,2,0,1,0
+ESPN--18,arm,2,0,1,0
+ESPN--19,arm,2,1,1,0
+ESPN--20,arm,2,0,1,0
+ESPN--22,arm,2,1,1,0
+ESPN--23,arm,2,0,1,0
+ESPN--24,arm,2,1,1,0
+ESPN--25,arm,2,1,1,0
+ESPN--27,arm,2,1,1,0
+ESPN--28,arm,2,0,1,0
+ESPN--29,arm,2,1,1,0
+ESPN--3,arm,2,0,1,0
+ESPN--30,arm,2,0,1,0
+ESPN--31,arm,2,1,1,0
+ESPN--32,arm,2,1,1,0
+ESPN--33,arm,2,1,1,0
+ESPN--34,arm,2,1,1,0
+ESPN--35,arm,2,1,1,0
+ESPN--36,arm,2,1,1,0
+ESPN--37,arm,2,0,1,0
+ESPN--39,arm,2,0,1,0
+ESPN--40,arm,2,1,1,0
+ESPN--41,arm,2,1,1,0
+ESPN--5,arm,2,1,1,0
+ESPN--6,arm,2,0,1,0
+ESPN--7,arm,2,0,1,0
+ESPN--8,arm,2,1,1,0
+ESPN--9,arm,2,0,1,0
+GitHub--0,arm,2,1,1,0
+GitHub--1,arm,2,1,1,0
+GitHub--10,arm,2,1,1,0
+GitHub--11,arm,2,0,1,0
+GitHub--12,arm,2,1,1,0
+GitHub--13,arm,2,0,1,0
+GitHub--14,arm,2,1,1,0
+GitHub--15,arm,2,1,1,0
+GitHub--16,arm,2,1,1,0
+GitHub--17,arm,2,1,1,0
+GitHub--18,arm,2,1,1,0
+GitHub--19,arm,2,1,1,0
+GitHub--2,arm,2,0,1,0
+GitHub--20,arm,2,1,1,0
+GitHub--21,arm,2,1,1,0
+GitHub--22,arm,2,1,1,0
+GitHub--23,arm,2,1,1,0
+GitHub--24,arm,2,1,1,0
+GitHub--25,arm,2,0,1,0
+GitHub--26,arm,2,1,1,0
+GitHub--27,arm,2,1,1,0
+GitHub--28,arm,2,0,1,0
+GitHub--29,arm,2,1,1,0
+GitHub--3,arm,2,1,1,0
+GitHub--30,arm,2,0,1,0
+GitHub--31,arm,2,0,1,0
+GitHub--32,arm,2,1,1,1
+GitHub--33,arm,2,1,1,0
+GitHub--34,arm,2,1,1,0
+GitHub--35,arm,2,1,1,0
+GitHub--36,arm,2,0,1,0
+GitHub--37,arm,2,1,1,0
+GitHub--38,arm,2,0,1,0
+GitHub--39,arm,2,1,1,0
+GitHub--4,arm,2,0,0,0
+GitHub--40,arm,2,0,1,0
+GitHub--5,arm,2,1,1,0
+GitHub--6,arm,2,0,1,0
+GitHub--7,arm,2,1,1,0
+GitHub--8,arm,2,1,1,0
+GitHub--9,arm,2,0,1,0
+Google Flights--0,arm,2,0,1,0
+Google Flights--1,arm,2,1,1,0
+Google Flights--10,arm,2,0,1,0
+Google Flights--11,arm,2,1,1,0
+Google Flights--12,arm,2,0,1,0
+Google Flights--13,arm,2,1,1,0
+Google Flights--14,arm,2,0,1,0
+Google Flights--15,arm,2,1,1,0
+Google Flights--16,arm,2,0,1,0
+Google Flights--17,arm,2,0,1,0
+Google Flights--18,arm,2,0,1,0
+Google Flights--19,arm,2,1,1,0
+Google Flights--2,arm,2,1,1,0
+Google Flights--20,arm,2,0,1,0
+Google Flights--21,arm,2,0,1,0
+Google Flights--22,arm,2,0,1,0
+Google Flights--23,arm,2,0,1,0
+Google Flights--24,arm,2,0,1,0
+Google Flights--25,arm,2,0,1,0
+Google Flights--26,arm,2,1,1,0
+Google Flights--27,arm,2,0,1,0
+Google Flights--28,arm,2,0,1,0
+Google Flights--29,arm,2,1,1,0
+Google Flights--3,arm,2,1,1,0
+Google Flights--30,arm,2,1,1,0
+Google Flights--31,arm,2,1,1,0
+Google Flights--32,arm,2,1,1,0
+Google Flights--33,arm,2,0,1,0
+Google Flights--34,arm,2,1,1,0
+Google Flights--35,arm,2,0,1,0
+Google Flights--36,arm,2,1,1,0
+Google Flights--37,arm,2,0,1,0
+Google Flights--38,arm,2,1,1,0
+Google Flights--39,arm,2,0,1,0
+Google Flights--4,arm,2,0,1,0
+Google Flights--40,arm,2,1,1,0
+Google Flights--41,arm,2,1,1,0
+Google Flights--5,arm,2,0,1,0
+Google Flights--6,arm,2,0,1,0
+Google Flights--8,arm,2,1,1,0
+Google Flights--9,arm,2,1,1,0
+Google Map--0,arm,2,0,1,0
+Google Map--1,arm,2,1,1,0
+Google Map--10,arm,2,1,1,0
+Google Map--11,arm,2,1,1,0
+Google Map--12,arm,2,0,1,0
+Google Map--13,arm,2,0,1,0
+Google Map--14,arm,2,1,1,0
+Google Map--15,arm,2,0,1,0
+Google Map--16,arm,2,1,1,0
+Google Map--17,arm,2,1,1,0
+Google Map--18,arm,2,1,1,0
+Google Map--19,arm,2,1,1,0
+Google Map--2,arm,2,0,1,0
+Google Map--20,arm,2,1,1,0
+Google Map--21,arm,2,1,1,0
+Google Map--22,arm,2,0,1,0
+Google Map--23,arm,2,1,1,0
+Google Map--24,arm,2,0,1,0
+Google Map--25,arm,2,0,1,0
+Google Map--27,arm,2,0,1,0
+Google Map--28,arm,2,1,1,0
+Google Map--29,arm,2,1,1,0
+Google Map--3,arm,2,1,1,0
+Google Map--30,arm,2,0,1,0
+Google Map--31,arm,2,1,1,0
+Google Map--32,arm,2,0,1,0
+Google Map--33,arm,2,0,1,0
+Google Map--34,arm,2,1,1,0
+Google Map--35,arm,2,1,1,0
+Google Map--36,arm,2,0,1,0
+Google Map--37,arm,2,1,1,0
+Google Map--38,arm,2,1,1,0
+Google Map--39,arm,2,1,1,0
+Google Map--4,arm,2,1,1,0
+Google Map--40,arm,2,0,0,0
+Google Map--5,arm,2,0,1,0
+Google Map--6,arm,2,1,1,0
+Google Map--7,arm,2,1,1,0
+Google Map--8,arm,2,0,1,0
+Google Map--9,arm,2,0,1,0
+Google Search--0,arm,2,0,1,1
+Google Search--1,arm,2,1,1,1
+Google Search--10,arm,2,0,1,1
+Google Search--11,arm,2,0,0,1
+Google Search--12,arm,2,1,1,1
+Google Search--13,arm,2,0,1,1
+Google Search--14,arm,2,0,1,1
+Google Search--15,arm,2,0,1,0
+Google Search--16,arm,2,0,1,1
+Google Search--17,arm,2,0,1,1
+Google Search--18,arm,2,0,1,1
+Google Search--19,arm,2,1,1,1
+Google Search--2,arm,2,1,1,1
+Google Search--20,arm,2,0,1,1
+Google Search--21,arm,2,1,1,1
+Google Search--22,arm,2,0,0,1
+Google Search--23,arm,2,0,1,1
+Google Search--24,arm,2,1,1,1
+Google Search--25,arm,2,1,1,1
+Google Search--26,arm,2,0,0,1
+Google Search--27,arm,2,0,0,1
+Google Search--28,arm,2,0,1,1
+Google Search--29,arm,2,1,1,1
+Google Search--3,arm,2,0,1,1
+Google Search--30,arm,2,1,1,1
+Google Search--31,arm,2,1,1,1
+Google Search--32,arm,2,0,1,1
+Google Search--33,arm,2,1,1,1
+Google Search--34,arm,2,0,1,1
+Google Search--35,arm,2,1,1,1
+Google Search--36,arm,2,1,1,1
+Google Search--37,arm,2,0,1,1
+Google Search--38,arm,2,1,1,1
+Google Search--39,arm,2,0,1,1
+Google Search--4,arm,2,0,1,1
+Google Search--40,arm,2,1,1,1
+Google Search--41,arm,2,1,1,1
+Google Search--42,arm,2,0,1,1
+Google Search--5,arm,2,0,0,1
+Google Search--6,arm,2,0,0,1
+Google Search--7,arm,2,1,1,1
+Google Search--8,arm,2,1,1,1
+Google Search--9,arm,2,0,1,1
+Huggingface--0,arm,2,0,1,0
+Huggingface--11,arm,2,1,1,0
+Huggingface--12,arm,2,0,1,1
+Huggingface--13,arm,2,0,1,1
+Huggingface--14,arm,2,1,1,0
+Huggingface--15,arm,2,0,1,0
+Huggingface--16,arm,2,1,1,0
+Huggingface--17,arm,2,1,1,0
+Huggingface--18,arm,2,1,1,1
+Huggingface--19,arm,2,0,1,1
+Huggingface--2,arm,2,1,1,1
+Huggingface--21,arm,2,1,1,1
+Huggingface--22,arm,2,0,1,1
+Huggingface--24,arm,2,0,1,1
+Huggingface--25,arm,2,0,1,1
+Huggingface--26,arm,2,1,1,1
+Huggingface--27,arm,2,0,1,1
+Huggingface--28,arm,2,0,1,1
+Huggingface--29,arm,2,0,1,1
+Huggingface--3,arm,2,1,1,0
+Huggingface--30,arm,2,0,1,1
+Huggingface--31,arm,2,0,1,1
+Huggingface--33,arm,2,1,1,1
+Huggingface--34,arm,2,0,1,1
+Huggingface--35,arm,2,0,1,1
+Huggingface--36,arm,2,0,1,1
+Huggingface--37,arm,2,0,1,1
+Huggingface--38,arm,2,1,1,1
+Huggingface--39,arm,2,0,1,1
+Huggingface--4,arm,2,1,1,0
+Huggingface--40,arm,2,0,1,1
+Huggingface--41,arm,2,0,1,1
+Huggingface--42,arm,2,0,1,1
+Huggingface--5,arm,2,1,1,0
+Huggingface--7,arm,2,1,1,0
+Huggingface--8,arm,2,1,1,0
+Huggingface--9,arm,2,0,1,0
+Wolfram Alpha--0,arm,2,1,1,0
+Wolfram Alpha--1,arm,2,0,1,0
+Wolfram Alpha--10,arm,2,1,1,0
+Wolfram Alpha--11,arm,2,0,1,0
+Wolfram Alpha--12,arm,2,0,1,0
+Wolfram Alpha--13,arm,2,0,1,0
+Wolfram Alpha--14,arm,2,0,1,1
+Wolfram Alpha--15,arm,2,1,1,0
+Wolfram Alpha--16,arm,2,1,1,0
+Wolfram Alpha--17,arm,2,1,1,0
+Wolfram Alpha--18,arm,2,0,1,0
+Wolfram Alpha--19,arm,2,0,1,0
+Wolfram Alpha--2,arm,2,1,1,0
+Wolfram Alpha--20,arm,2,1,1,0
+Wolfram Alpha--21,arm,2,1,1,0
+Wolfram Alpha--22,arm,2,1,1,0
+Wolfram Alpha--23,arm,2,1,1,0
+Wolfram Alpha--24,arm,2,1,1,0
+Wolfram Alpha--25,arm,2,0,1,0
+Wolfram Alpha--26,arm,2,0,1,0
+Wolfram Alpha--27,arm,2,1,1,0
+Wolfram Alpha--28,arm,2,0,1,0
+Wolfram Alpha--29,arm,2,1,1,0
+Wolfram Alpha--3,arm,2,1,1,0
+Wolfram Alpha--30,arm,2,0,1,0
+Wolfram Alpha--31,arm,2,1,1,0
+Wolfram Alpha--32,arm,2,1,1,0
+Wolfram Alpha--33,arm,2,1,1,0
+Wolfram Alpha--34,arm,2,0,1,0
+Wolfram Alpha--35,arm,2,1,1,0
+Wolfram Alpha--36,arm,2,1,1,0
+Wolfram Alpha--37,arm,2,1,1,0
+Wolfram Alpha--38,arm,2,1,1,0
+Wolfram Alpha--39,arm,2,0,1,0
+Wolfram Alpha--4,arm,2,0,1,1
+Wolfram Alpha--40,arm,2,1,1,0
+Wolfram Alpha--41,arm,2,1,1,0
+Wolfram Alpha--42,arm,2,1,1,0
+Wolfram Alpha--43,arm,2,0,1,0
+Wolfram Alpha--44,arm,2,0,1,0
+Wolfram Alpha--45,arm,2,0,0,0
+Wolfram Alpha--5,arm,2,1,1,0
+Wolfram Alpha--6,arm,2,1,1,0
+Wolfram Alpha--7,arm,2,0,1,0
+Wolfram Alpha--8,arm,2,0,1,0
+Wolfram Alpha--9,arm,2,1,1,0
+Allrecipes--0,arm,3,1,1,1
+Allrecipes--1,arm,3,1,1,0
+Allrecipes--10,arm,3,0,1,1
+Allrecipes--11,arm,3,0,1,0
+Allrecipes--12,arm,3,0,1,1
+Allrecipes--13,arm,3,0,1,0
+Allrecipes--14,arm,3,0,1,1
+Allrecipes--15,arm,3,0,1,0
+Allrecipes--17,arm,3,0,1,1
+Allrecipes--18,arm,3,0,1,1
+Allrecipes--2,arm,3,0,1,0
+Allrecipes--20,arm,3,0,1,0
+Allrecipes--21,arm,3,0,1,0
+Allrecipes--22,arm,3,0,1,1
+Allrecipes--24,arm,3,0,1,0
+Allrecipes--25,arm,3,0,1,0
+Allrecipes--26,arm,3,0,1,1
+Allrecipes--27,arm,3,0,1,0
+Allrecipes--28,arm,3,0,1,0
+Allrecipes--29,arm,3,0,1,0
+Allrecipes--31,arm,3,0,1,0
+Allrecipes--32,arm,3,0,1,0
+Allrecipes--33,arm,3,0,1,0
+Allrecipes--34,arm,3,0,1,1
+Allrecipes--35,arm,3,0,1,0
+Allrecipes--36,arm,3,0,1,0
+Allrecipes--37,arm,3,0,1,0
+Allrecipes--38,arm,3,0,0,1
+Allrecipes--39,arm,3,0,1,1
+Allrecipes--4,arm,3,1,1,0
+Allrecipes--40,arm,3,0,1,0
+Allrecipes--41,arm,3,0,1,0
+Allrecipes--42,arm,3,0,1,0
+Allrecipes--43,arm,3,0,1,0
+Allrecipes--44,arm,3,0,1,0
+Allrecipes--5,arm,3,0,1,0
+Allrecipes--6,arm,3,0,1,0
+Allrecipes--7,arm,3,1,1,0
+Allrecipes--8,arm,3,0,1,0
+Allrecipes--9,arm,3,0,1,0
+Amazon--0,arm,3,1,1,0
+Amazon--1,arm,3,0,1,0
+Amazon--10,arm,3,1,1,0
+Amazon--11,arm,3,1,1,0
+Amazon--12,arm,3,0,1,1
+Amazon--13,arm,3,0,1,0
+Amazon--14,arm,3,1,1,0
+Amazon--15,arm,3,0,1,0
+Amazon--17,arm,3,1,1,0
+Amazon--18,arm,3,1,1,0
+Amazon--2,arm,3,0,0,1
+Amazon--20,arm,3,0,1,1
+Amazon--21,arm,3,0,1,1
+Amazon--22,arm,3,1,1,0
+Amazon--23,arm,3,0,1,0
+Amazon--24,arm,3,0,1,1
+Amazon--25,arm,3,1,1,0
+Amazon--26,arm,3,0,1,1
+Amazon--27,arm,3,1,1,0
+Amazon--28,arm,3,0,1,0
+Amazon--29,arm,3,1,1,0
+Amazon--3,arm,3,1,1,0
+Amazon--30,arm,3,0,1,1
+Amazon--31,arm,3,1,1,0
+Amazon--32,arm,3,1,1,0
+Amazon--33,arm,3,1,1,0
+Amazon--34,arm,3,1,1,0
+Amazon--35,arm,3,1,1,0
+Amazon--36,arm,3,0,1,0
+Amazon--37,arm,3,1,1,0
+Amazon--38,arm,3,1,1,0
+Amazon--39,arm,3,0,1,0
+Amazon--40,arm,3,1,1,0
+Amazon--5,arm,3,1,1,0
+Amazon--6,arm,3,0,1,0
+Amazon--7,arm,3,0,1,1
+Amazon--8,arm,3,1,1,0
+Amazon--9,arm,3,0,1,1
+Apple--0,arm,3,1,1,0
+Apple--10,arm,3,1,1,0
+Apple--11,arm,3,0,1,0
+Apple--12,arm,3,1,1,0
+Apple--13,arm,3,1,1,0
+Apple--15,arm,3,1,1,0
+Apple--16,arm,3,1,1,0
+Apple--17,arm,3,0,1,0
+Apple--18,arm,3,1,1,0
+Apple--19,arm,3,0,1,0
+Apple--21,arm,3,1,1,0
+Apple--23,arm,3,0,1,0
+Apple--24,arm,3,1,1,0
+Apple--25,arm,3,1,1,0
+Apple--26,arm,3,1,1,0
+Apple--27,arm,3,1,1,0
+Apple--28,arm,3,1,1,0
+Apple--29,arm,3,1,1,0
+Apple--3,arm,3,1,1,0
+Apple--30,arm,3,0,1,0
+Apple--31,arm,3,1,1,0
+Apple--33,arm,3,0,0,0
+Apple--34,arm,3,1,1,0
+Apple--35,arm,3,0,1,0
+Apple--36,arm,3,0,1,0
+Apple--38,arm,3,1,1,0
+Apple--39,arm,3,1,1,0
+Apple--40,arm,3,0,1,0
+Apple--5,arm,3,0,1,0
+Apple--6,arm,3,1,1,0
+Apple--8,arm,3,1,1,0
+Apple--9,arm,3,0,1,0
+ArXiv--0,arm,3,1,1,0
+ArXiv--1,arm,3,0,1,0
+ArXiv--10,arm,3,1,1,0
+ArXiv--12,arm,3,1,1,0
+ArXiv--13,arm,3,1,1,0
+ArXiv--14,arm,3,0,1,0
+ArXiv--15,arm,3,0,1,0
+ArXiv--16,arm,3,1,1,0
+ArXiv--17,arm,3,0,1,1
+ArXiv--18,arm,3,0,1,1
+ArXiv--19,arm,3,1,1,0
+ArXiv--2,arm,3,1,1,0
+ArXiv--20,arm,3,1,1,0
+ArXiv--21,arm,3,0,1,0
+ArXiv--22,arm,3,1,1,0
+ArXiv--23,arm,3,0,1,0
+ArXiv--24,arm,3,0,1,0
+ArXiv--25,arm,3,1,1,0
+ArXiv--26,arm,3,0,1,0
+ArXiv--27,arm,3,1,1,0
+ArXiv--28,arm,3,1,1,0
+ArXiv--29,arm,3,0,1,0
+ArXiv--3,arm,3,1,1,0
+ArXiv--30,arm,3,1,1,0
+ArXiv--31,arm,3,0,1,0
+ArXiv--32,arm,3,1,1,0
+ArXiv--33,arm,3,1,1,0
+ArXiv--34,arm,3,0,1,0
+ArXiv--35,arm,3,1,1,0
+ArXiv--36,arm,3,0,1,0
+ArXiv--37,arm,3,1,1,0
+ArXiv--38,arm,3,1,1,0
+ArXiv--39,arm,3,0,1,0
+ArXiv--4,arm,3,1,1,0
+ArXiv--40,arm,3,0,1,0
+ArXiv--41,arm,3,0,1,0
+ArXiv--42,arm,3,0,1,0
+ArXiv--5,arm,3,0,1,0
+ArXiv--6,arm,3,0,1,0
+ArXiv--7,arm,3,1,1,0
+ArXiv--8,arm,3,1,1,0
+ArXiv--9,arm,3,0,1,0
+BBC News--0,arm,3,1,1,0
+BBC News--1,arm,3,0,1,0
+BBC News--11,arm,3,1,1,0
+BBC News--12,arm,3,0,1,0
+BBC News--13,arm,3,1,1,0
+BBC News--15,arm,3,1,1,0
+BBC News--17,arm,3,0,1,0
+BBC News--19,arm,3,1,1,0
+BBC News--20,arm,3,1,1,0
+BBC News--22,arm,3,0,1,0
+BBC News--23,arm,3,0,0,0
+BBC News--24,arm,3,0,1,0
+BBC News--25,arm,3,1,1,0
+BBC News--27,arm,3,0,1,0
+BBC News--28,arm,3,0,1,0
+BBC News--3,arm,3,1,1,0
+BBC News--30,arm,3,0,1,0
+BBC News--31,arm,3,1,1,0
+BBC News--32,arm,3,0,1,0
+BBC News--34,arm,3,0,1,0
+BBC News--35,arm,3,0,1,0
+BBC News--36,arm,3,1,1,0
+BBC News--37,arm,3,0,1,0
+BBC News--38,arm,3,1,1,0
+BBC News--39,arm,3,1,1,0
+BBC News--4,arm,3,0,1,0
+BBC News--40,arm,3,0,1,0
+BBC News--41,arm,3,0,1,0
+BBC News--6,arm,3,0,1,0
+BBC News--7,arm,3,1,1,0
+BBC News--8,arm,3,0,1,0
+BBC News--9,arm,3,0,1,0
+Booking--0,arm,3,0,1,0
+Booking--1,arm,3,0,1,0
+Booking--11,arm,3,0,1,0
+Booking--12,arm,3,1,1,0
+Booking--13,arm,3,0,1,0
+Booking--14,arm,3,0,1,0
+Booking--15,arm,3,0,1,0
+Booking--16,arm,3,0,1,0
+Booking--17,arm,3,0,1,0
+Booking--18,arm,3,0,1,0
+Booking--19,arm,3,0,1,0
+Booking--2,arm,3,0,1,0
+Booking--20,arm,3,0,1,0
+Booking--21,arm,3,0,1,0
+Booking--22,arm,3,0,1,0
+Booking--23,arm,3,0,1,0
+Booking--24,arm,3,0,1,0
+Booking--25,arm,3,0,1,0
+Booking--26,arm,3,0,1,0
+Booking--27,arm,3,1,1,0
+Booking--28,arm,3,0,1,0
+Booking--29,arm,3,0,1,0
+Booking--3,arm,3,0,1,0
+Booking--30,arm,3,0,1,0
+Booking--31,arm,3,0,1,0
+Booking--32,arm,3,0,1,0
+Booking--33,arm,3,1,1,0
+Booking--34,arm,3,0,1,0
+Booking--35,arm,3,1,1,0
+Booking--36,arm,3,0,1,0
+Booking--37,arm,3,0,1,0
+Booking--38,arm,3,0,1,0
+Booking--39,arm,3,0,1,0
+Booking--4,arm,3,0,1,0
+Booking--40,arm,3,1,1,0
+Booking--41,arm,3,1,1,0
+Booking--42,arm,3,0,1,0
+Booking--43,arm,3,1,1,0
+Booking--5,arm,3,0,1,0
+Booking--6,arm,3,0,1,0
+Booking--7,arm,3,0,1,0
+Booking--8,arm,3,0,1,0
+Booking--9,arm,3,0,1,0
+Cambridge Dictionary--0,arm,3,0,1,1
+Cambridge Dictionary--1,arm,3,1,1,1
+Cambridge Dictionary--10,arm,3,1,1,1
+Cambridge Dictionary--11,arm,3,1,1,1
+Cambridge Dictionary--12,arm,3,0,1,1
+Cambridge Dictionary--13,arm,3,0,1,1
+Cambridge Dictionary--14,arm,3,0,1,1
+Cambridge Dictionary--15,arm,3,1,1,1
+Cambridge Dictionary--16,arm,3,0,1,1
+Cambridge Dictionary--17,arm,3,0,1,1
+Cambridge Dictionary--18,arm,3,0,1,1
+Cambridge Dictionary--19,arm,3,0,1,1
+Cambridge Dictionary--2,arm,3,1,1,1
+Cambridge Dictionary--20,arm,3,0,1,1
+Cambridge Dictionary--21,arm,3,0,1,1
+Cambridge Dictionary--22,arm,3,0,1,1
+Cambridge Dictionary--23,arm,3,0,1,1
+Cambridge Dictionary--24,arm,3,0,1,1
+Cambridge Dictionary--25,arm,3,0,1,1
+Cambridge Dictionary--26,arm,3,0,1,1
+Cambridge Dictionary--27,arm,3,0,0,0
+Cambridge Dictionary--28,arm,3,0,1,1
+Cambridge Dictionary--29,arm,3,0,1,1
+Cambridge Dictionary--3,arm,3,1,1,1
+Cambridge Dictionary--30,arm,3,0,1,1
+Cambridge Dictionary--31,arm,3,0,1,1
+Cambridge Dictionary--32,arm,3,0,1,1
+Cambridge Dictionary--33,arm,3,0,1,1
+Cambridge Dictionary--34,arm,3,0,1,1
+Cambridge Dictionary--35,arm,3,0,1,1
+Cambridge Dictionary--36,arm,3,0,1,1
+Cambridge Dictionary--37,arm,3,0,0,1
+Cambridge Dictionary--38,arm,3,0,1,1
+Cambridge Dictionary--39,arm,3,0,1,1
+Cambridge Dictionary--4,arm,3,0,1,1
+Cambridge Dictionary--40,arm,3,1,1,1
+Cambridge Dictionary--41,arm,3,0,1,1
+Cambridge Dictionary--42,arm,3,0,1,1
+Cambridge Dictionary--5,arm,3,0,1,1
+Cambridge Dictionary--6,arm,3,0,1,1
+Cambridge Dictionary--7,arm,3,0,1,1
+Cambridge Dictionary--8,arm,3,0,1,1
+Cambridge Dictionary--9,arm,3,0,1,1
+Coursera--0,arm,3,0,1,0
+Coursera--1,arm,3,1,1,0
+Coursera--10,arm,3,1,1,0
+Coursera--11,arm,3,1,1,0
+Coursera--12,arm,3,1,1,0
+Coursera--13,arm,3,1,1,0
+Coursera--14,arm,3,1,1,0
+Coursera--15,arm,3,1,1,0
+Coursera--16,arm,3,1,1,0
+Coursera--18,arm,3,1,1,0
+Coursera--19,arm,3,1,1,0
+Coursera--2,arm,3,1,1,0
+Coursera--20,arm,3,1,1,0
+Coursera--21,arm,3,1,1,0
+Coursera--22,arm,3,1,1,0
+Coursera--23,arm,3,1,1,0
+Coursera--24,arm,3,0,1,0
+Coursera--25,arm,3,1,1,0
+Coursera--26,arm,3,1,1,0
+Coursera--27,arm,3,1,1,0
+Coursera--29,arm,3,0,1,0
+Coursera--3,arm,3,1,1,0
+Coursera--30,arm,3,0,1,0
+Coursera--31,arm,3,1,1,0
+Coursera--32,arm,3,1,1,0
+Coursera--33,arm,3,0,1,0
+Coursera--34,arm,3,1,1,0
+Coursera--35,arm,3,0,1,0
+Coursera--36,arm,3,1,1,0
+Coursera--37,arm,3,1,1,0
+Coursera--38,arm,3,0,1,0
+Coursera--39,arm,3,1,1,0
+Coursera--4,arm,3,1,1,0
+Coursera--40,arm,3,0,1,0
+Coursera--41,arm,3,1,1,0
+Coursera--5,arm,3,1,1,0
+Coursera--6,arm,3,1,1,0
+Coursera--7,arm,3,1,1,0
+Coursera--8,arm,3,1,1,0
+Coursera--9,arm,3,1,1,0
+ESPN--0,arm,3,1,1,0
+ESPN--1,arm,3,1,1,0
+ESPN--10,arm,3,0,1,0
+ESPN--11,arm,3,1,1,0
+ESPN--12,arm,3,0,1,0
+ESPN--13,arm,3,1,1,0
+ESPN--14,arm,3,1,1,0
+ESPN--15,arm,3,0,1,0
+ESPN--16,arm,3,0,1,0
+ESPN--17,arm,3,0,1,0
+ESPN--18,arm,3,0,1,0
+ESPN--19,arm,3,1,1,0
+ESPN--20,arm,3,1,1,0
+ESPN--22,arm,3,1,1,0
+ESPN--23,arm,3,0,1,0
+ESPN--24,arm,3,1,1,0
+ESPN--25,arm,3,1,1,0
+ESPN--27,arm,3,1,1,0
+ESPN--28,arm,3,0,1,0
+ESPN--29,arm,3,1,1,0
+ESPN--3,arm,3,0,1,0
+ESPN--30,arm,3,0,1,0
+ESPN--31,arm,3,1,1,0
+ESPN--32,arm,3,1,1,0
+ESPN--33,arm,3,0,1,0
+ESPN--34,arm,3,1,1,0
+ESPN--35,arm,3,1,1,0
+ESPN--36,arm,3,0,1,0
+ESPN--37,arm,3,0,1,0
+ESPN--39,arm,3,0,1,0
+ESPN--40,arm,3,1,1,0
+ESPN--41,arm,3,1,1,0
+ESPN--5,arm,3,0,1,0
+ESPN--6,arm,3,0,1,0
+ESPN--7,arm,3,1,1,0
+ESPN--8,arm,3,1,1,0
+ESPN--9,arm,3,0,1,0
+GitHub--0,arm,3,1,1,0
+GitHub--1,arm,3,1,1,0
+GitHub--10,arm,3,1,1,0
+GitHub--11,arm,3,0,1,0
+GitHub--12,arm,3,1,1,0
+GitHub--13,arm,3,1,1,0
+GitHub--14,arm,3,1,1,0
+GitHub--15,arm,3,0,1,0
+GitHub--16,arm,3,1,1,0
+GitHub--17,arm,3,1,1,0
+GitHub--18,arm,3,1,1,0
+GitHub--19,arm,3,1,1,0
+GitHub--2,arm,3,1,1,0
+GitHub--20,arm,3,1,1,0
+GitHub--21,arm,3,1,1,0
+GitHub--22,arm,3,1,1,0
+GitHub--23,arm,3,0,1,0
+GitHub--24,arm,3,0,1,0
+GitHub--25,arm,3,1,1,0
+GitHub--26,arm,3,1,1,0
+GitHub--27,arm,3,1,1,0
+GitHub--28,arm,3,1,1,0
+GitHub--29,arm,3,0,1,0
+GitHub--3,arm,3,1,1,0
+GitHub--30,arm,3,0,1,0
+GitHub--31,arm,3,1,1,0
+GitHub--32,arm,3,1,1,0
+GitHub--33,arm,3,1,1,0
+GitHub--34,arm,3,1,1,0
+GitHub--35,arm,3,1,1,0
+GitHub--36,arm,3,0,1,0
+GitHub--37,arm,3,1,1,0
+GitHub--38,arm,3,1,1,0
+GitHub--39,arm,3,1,1,0
+GitHub--4,arm,3,0,1,0
+GitHub--40,arm,3,0,1,0
+GitHub--5,arm,3,1,1,0
+GitHub--6,arm,3,1,1,1
+GitHub--7,arm,3,1,1,0
+GitHub--8,arm,3,0,0,0
+GitHub--9,arm,3,0,0,0
+Google Flights--0,arm,3,1,1,0
+Google Flights--1,arm,3,1,1,0
+Google Flights--10,arm,3,1,1,0
+Google Flights--11,arm,3,1,1,0
+Google Flights--12,arm,3,0,1,0
+Google Flights--13,arm,3,1,1,0
+Google Flights--14,arm,3,0,1,0
+Google Flights--15,arm,3,0,1,0
+Google Flights--16,arm,3,0,1,0
+Google Flights--17,arm,3,0,1,0
+Google Flights--18,arm,3,1,1,0
+Google Flights--19,arm,3,1,1,0
+Google Flights--2,arm,3,1,1,0
+Google Flights--20,arm,3,0,1,0
+Google Flights--21,arm,3,0,1,0
+Google Flights--22,arm,3,0,1,0
+Google Flights--23,arm,3,0,1,0
+Google Flights--24,arm,3,0,0,0
+Google Flights--25,arm,3,0,1,0
+Google Flights--26,arm,3,0,1,0
+Google Flights--27,arm,3,0,0,0
+Google Flights--28,arm,3,1,1,0
+Google Flights--29,arm,3,0,1,0
+Google Flights--3,arm,3,1,1,0
+Google Flights--30,arm,3,0,1,0
+Google Flights--31,arm,3,1,1,0
+Google Flights--32,arm,3,1,1,0
+Google Flights--33,arm,3,1,1,0
+Google Flights--34,arm,3,1,1,0
+Google Flights--35,arm,3,1,1,0
+Google Flights--36,arm,3,0,1,0
+Google Flights--37,arm,3,1,1,0
+Google Flights--38,arm,3,0,1,0
+Google Flights--39,arm,3,0,1,0
+Google Flights--4,arm,3,0,1,0
+Google Flights--40,arm,3,1,1,0
+Google Flights--41,arm,3,0,1,0
+Google Flights--5,arm,3,0,1,0
+Google Flights--6,arm,3,1,1,0
+Google Flights--8,arm,3,1,1,0
+Google Flights--9,arm,3,0,1,0
+Google Map--0,arm,3,0,1,0
+Google Map--1,arm,3,1,1,0
+Google Map--10,arm,3,1,1,0
+Google Map--11,arm,3,0,1,0
+Google Map--12,arm,3,1,1,0
+Google Map--13,arm,3,0,1,0
+Google Map--14,arm,3,0,0,0
+Google Map--15,arm,3,0,1,0
+Google Map--16,arm,3,1,1,0
+Google Map--17,arm,3,1,1,0
+Google Map--18,arm,3,1,1,0
+Google Map--19,arm,3,1,1,0
+Google Map--2,arm,3,1,1,0
+Google Map--20,arm,3,1,1,0
+Google Map--21,arm,3,1,1,0
+Google Map--22,arm,3,0,0,0
+Google Map--23,arm,3,1,1,0
+Google Map--24,arm,3,0,1,0
+Google Map--25,arm,3,0,1,0
+Google Map--27,arm,3,0,1,0
+Google Map--28,arm,3,0,1,0
+Google Map--29,arm,3,1,1,0
+Google Map--3,arm,3,0,1,0
+Google Map--30,arm,3,0,1,0
+Google Map--31,arm,3,1,1,0
+Google Map--32,arm,3,0,1,0
+Google Map--33,arm,3,0,1,0
+Google Map--34,arm,3,1,1,0
+Google Map--35,arm,3,1,1,1
+Google Map--36,arm,3,0,1,0
+Google Map--37,arm,3,0,1,0
+Google Map--38,arm,3,1,1,0
+Google Map--39,arm,3,1,1,0
+Google Map--4,arm,3,1,1,0
+Google Map--40,arm,3,0,1,0
+Google Map--5,arm,3,0,1,0
+Google Map--6,arm,3,1,1,0
+Google Map--7,arm,3,1,1,0
+Google Map--8,arm,3,1,1,0
+Google Map--9,arm,3,0,1,0
+Google Search--0,arm,3,1,1,1
+Google Search--1,arm,3,1,1,1
+Google Search--10,arm,3,0,1,1
+Google Search--11,arm,3,0,1,0
+Google Search--12,arm,3,0,1,1
+Google Search--13,arm,3,0,1,1
+Google Search--14,arm,3,0,1,1
+Google Search--15,arm,3,0,1,0
+Google Search--16,arm,3,0,1,1
+Google Search--17,arm,3,1,1,1
+Google Search--18,arm,3,1,1,1
+Google Search--19,arm,3,0,1,1
+Google Search--2,arm,3,1,1,1
+Google Search--20,arm,3,1,1,1
+Google Search--21,arm,3,0,1,1
+Google Search--22,arm,3,0,1,1
+Google Search--23,arm,3,0,1,1
+Google Search--24,arm,3,0,1,1
+Google Search--25,arm,3,0,1,1
+Google Search--26,arm,3,0,1,1
+Google Search--27,arm,3,1,1,1
+Google Search--28,arm,3,0,1,1
+Google Search--29,arm,3,1,1,1
+Google Search--3,arm,3,1,1,1
+Google Search--30,arm,3,0,0,1
+Google Search--31,arm,3,1,1,1
+Google Search--32,arm,3,0,1,1
+Google Search--33,arm,3,1,1,0
+Google Search--34,arm,3,0,1,1
+Google Search--35,arm,3,1,1,1
+Google Search--36,arm,3,0,1,1
+Google Search--37,arm,3,0,1,1
+Google Search--38,arm,3,1,1,1
+Google Search--39,arm,3,0,1,1
+Google Search--4,arm,3,1,1,1
+Google Search--40,arm,3,1,1,1
+Google Search--41,arm,3,1,1,1
+Google Search--42,arm,3,1,1,1
+Google Search--5,arm,3,1,1,1
+Google Search--6,arm,3,1,1,1
+Google Search--7,arm,3,0,0,1
+Google Search--8,arm,3,1,1,1
+Google Search--9,arm,3,0,1,1
+Huggingface--0,arm,3,0,1,1
+Huggingface--11,arm,3,0,1,0
+Huggingface--12,arm,3,0,1,1
+Huggingface--13,arm,3,0,1,1
+Huggingface--14,arm,3,1,1,1
+Huggingface--15,arm,3,0,1,1
+Huggingface--16,arm,3,0,1,1
+Huggingface--17,arm,3,0,1,1
+Huggingface--18,arm,3,0,1,1
+Huggingface--19,arm,3,1,1,1
+Huggingface--2,arm,3,1,1,1
+Huggingface--21,arm,3,0,1,1
+Huggingface--22,arm,3,0,1,1
+Huggingface--24,arm,3,0,1,1
+Huggingface--25,arm,3,0,1,1
+Huggingface--26,arm,3,1,1,1
+Huggingface--27,arm,3,0,1,1
+Huggingface--28,arm,3,0,1,1
+Huggingface--29,arm,3,1,1,1
+Huggingface--3,arm,3,1,1,0
+Huggingface--30,arm,3,0,1,1
+Huggingface--31,arm,3,0,1,1
+Huggingface--33,arm,3,0,1,1
+Huggingface--34,arm,3,0,1,1
+Huggingface--35,arm,3,0,1,1
+Huggingface--36,arm,3,0,1,1
+Huggingface--37,arm,3,0,1,1
+Huggingface--38,arm,3,0,1,1
+Huggingface--39,arm,3,0,1,1
+Huggingface--4,arm,3,1,1,0
+Huggingface--40,arm,3,0,1,1
+Huggingface--41,arm,3,0,1,1
+Huggingface--42,arm,3,0,1,1
+Huggingface--5,arm,3,1,1,0
+Huggingface--7,arm,3,0,1,1
+Huggingface--8,arm,3,1,1,1
+Huggingface--9,arm,3,0,1,0
+Wolfram Alpha--0,arm,3,1,1,0
+Wolfram Alpha--1,arm,3,0,1,0
+Wolfram Alpha--10,arm,3,1,1,0
+Wolfram Alpha--11,arm,3,0,1,0
+Wolfram Alpha--12,arm,3,0,1,1
+Wolfram Alpha--13,arm,3,0,1,0
+Wolfram Alpha--14,arm,3,1,1,0
+Wolfram Alpha--15,arm,3,1,1,0
+Wolfram Alpha--16,arm,3,0,1,0
+Wolfram Alpha--17,arm,3,1,1,0
+Wolfram Alpha--18,arm,3,0,1,0
+Wolfram Alpha--19,arm,3,1,1,0
+Wolfram Alpha--2,arm,3,1,1,0
+Wolfram Alpha--20,arm,3,1,1,0
+Wolfram Alpha--21,arm,3,1,1,0
+Wolfram Alpha--22,arm,3,1,1,0
+Wolfram Alpha--23,arm,3,1,1,0
+Wolfram Alpha--24,arm,3,1,1,0
+Wolfram Alpha--25,arm,3,0,1,0
+Wolfram Alpha--26,arm,3,1,1,0
+Wolfram Alpha--27,arm,3,1,1,0
+Wolfram Alpha--28,arm,3,0,1,0
+Wolfram Alpha--29,arm,3,1,1,0
+Wolfram Alpha--3,arm,3,1,1,0
+Wolfram Alpha--30,arm,3,0,1,0
+Wolfram Alpha--31,arm,3,1,1,0
+Wolfram Alpha--32,arm,3,0,1,0
+Wolfram Alpha--33,arm,3,0,1,0
+Wolfram Alpha--34,arm,3,0,1,0
+Wolfram Alpha--35,arm,3,1,1,0
+Wolfram Alpha--36,arm,3,1,1,0
+Wolfram Alpha--37,arm,3,1,1,0
+Wolfram Alpha--38,arm,3,1,1,0
+Wolfram Alpha--39,arm,3,0,1,0
+Wolfram Alpha--4,arm,3,1,1,0
+Wolfram Alpha--40,arm,3,1,1,0
+Wolfram Alpha--41,arm,3,1,1,0
+Wolfram Alpha--42,arm,3,0,1,0
+Wolfram Alpha--43,arm,3,0,1,0
+Wolfram Alpha--44,arm,3,1,1,0
+Wolfram Alpha--45,arm,3,0,1,0
+Wolfram Alpha--5,arm,3,1,1,0
+Wolfram Alpha--6,arm,3,0,1,0
+Wolfram Alpha--7,arm,3,0,1,0
+Wolfram Alpha--8,arm,3,0,1,0
+Wolfram Alpha--9,arm,3,1,1,0
