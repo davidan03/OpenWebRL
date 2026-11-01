@@ -7,6 +7,41 @@ at every step, and that pick is executed. Pairs come from executed turns of succ
 candidate is the head's pick, the rejected one is another candidate. `HEAD=piotr-data` runs the same pipeline
 with the piotr-data head.
 
+## For an agent running this
+
+Goal: regenerate this data on Tillicum and compare it with ours (`$DATA/reference/`, numbers below).
+Everything you need is in this directory plus `$DATA` = `/gpfs/projects/krishna/dan29/share/head_datagen/`
+(group `krishna`, readable on Tillicum). Do this, in order:
+
+1. **Get the four local inputs** (login node: it has the fast network; compute nodes are on 1 GbE). Every
+   download is checked against a sha256 by `sbatch_collect_head.sh` before anything runs.
+   ```bash
+   export ENVP=/gpfs/projects/krishna/dan29/conda/envs/zixian-panels   # read-only shared env; or yours with the same versions
+   export HEADS=<scratch>/action-selection-heads BASE=<scratch>/OpenWebRL-4B-SFT HF_HOME=<scratch>/hf PW_SRC=<scratch>/ms-playwright
+   $ENVP/bin/hf download zixianma/action-selection-heads --revision 97252f7101d8576cd07b7f4dc50fac21099e6421 --local-dir $HEADS
+   $ENVP/bin/hf download OpenWebRL/OpenWebRL-4B-SFT --revision 15e777db2ddba2e0e82080ebccd3ad8d215b7f0a --local-dir $BASE
+   PLAYWRIGHT_BROWSERS_PATH=$PW_SRC $ENVP/bin/playwright install chromium chromium-headless-shell   # playwright 1.58.0 -> chromium-1208
+   sha256sum $HEADS/lookahead-k3-1380/head.pt $HEADS/piotr-data/head.pt   # 11d5eff8ffe1966c... / 755d4cd4913765e2...
+   ```
+   The heads repo's `main` has moved past 97252f71; use the pinned revision. If `hf download` returns quickly
+   with missing files, you hit the HF rate limit (it exits 0); retry later and check every expected file exists.
+2. **Build the code trees**: step 0 below. Expect `SETUP_OK`.
+3. **Ask the user before every `sbatch`**: GPU jobs are billed. State the GPUs, `--time`, the maximum GPU-hours
+   (GPUs x `--time`) and the expected GPU-hours. Pilot: 1 H200 x 1:00 (about 0.3 GPU-h). Each full pass:
+   1 H200 x 10:00 (ours took 9:52). The live judge (`OPENAI_API_KEY`) costs about $20 per pass.
+4. **Pilot, then check its log.** It passed if the log has `JUDGE_OK gpt-5.6-terra`, `SERVICES_READY ... (capture
+   hooks verified)`, `COLLECT_EXIT 0 results=20`, `PORTS_CLEAN` and `PARITY_EXIT 0`. Compare `<OUT>/parity.log`
+   with ours: 33/40 same picks; the head card says 34-37/40. `FATAL:` lines name the input that failed its check.
+   A `Killed ... sglang.launch_server` line just before `PARITY_EXIT` is expected: the script stops the actor to
+   free the GPU for the offline re-score.
+5. **Two full passes** (seeds 42 and 43), then pairs, then corpus (steps 2-4 below).
+6. **Report**: run the `diagnosis/` scripts on the new data and put each number next to ours (section "Our
+   reference outputs"). Lead with valid / successful tasks per pass, then the head's repeat-pick rate vs chance,
+   the stop-pick rate in failed episodes, the top-prob mean, the corpus row count and the repeat-teaching pair
+   counts. Expect a statistical match, not identical data.
+
+## Provenance
+
 This branch is zixianma/OpenWebRL @1065034 plus this directory. Everything here is a copy of the code we ran.
 The only edits are the hardcoded paths, which are now env vars, and one bug fix in `diagnosis/collect_stats.py`
 (see the last section).
