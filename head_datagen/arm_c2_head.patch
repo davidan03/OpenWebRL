@@ -1,0 +1,105 @@
+diff --git a/openwebrl/arm_c2.py b/openwebrl/arm_c2.py
+index 48a5e9c..80a52b9 100644
+--- a/openwebrl/arm_c2.py
++++ b/openwebrl/arm_c2.py
+@@ -289,13 +289,14 @@ async def collect(config_path):
+     os.environ.setdefault('JUDGE_API_BASE', 'https://api.openai.com/v1')
+     os.environ.update(SLIME_BROWSER_ENV_MODE='local_process',
+                      SLIME_BROWSER_LOCAL_PROCESS_LOG_DIR=str(root / 'browser_logs'),
+-                     SLIME_BROWSER_LOCAL_PROCESS_PORT_START='19200', SLIME_BROWSER_LOCAL_PROCESS_PORT_END='19399',
+                      SLIME_BROWSER_LOCAL_PROCESS_MAX_PROCESSES=str(q['parallel']))
++    os.environ.setdefault('SLIME_BROWSER_LOCAL_PROCESS_PORT_START', '19200')  # Tillicum: shared nodes
++    os.environ.setdefault('SLIME_BROWSER_LOCAL_PROCESS_PORT_END', '19399')
+     generation._BROWSER_HOST_BLACKLIST_PATH = str(root / 'navigation_failures.txt')
+     manifest = q['teacher_manifest']
+     args = evaluation.EvalArgs(sglang_router_ip='127.0.0.1', sglang_router_port=19100,
+         hf_checkpoint=manifest['actor'], max_steps=30, context_num_screenshots=1,
+-        judge_api_model='o4-mini', judge_api_mode='served', judge_timeout_secs=180,
++        judge_api_model='gpt-5.6-terra', judge_api_mode='served', judge_timeout_secs=180,
+         browser_response_format_mode='browser_env', turn_history_reasoning_mode='full',
+         browser_include_tool_response=1, inference_step_timeout_secs=180, task_timeout_secs=1800,
+         path_to_save_generated_samples=str(root / 'samples'))
+@@ -323,6 +324,11 @@ async def collect(config_path):
+         for replica in replicas:
+             info = await client.get(f"http://127.0.0.1:{replica['actor_port']}/get_model_info"); info.raise_for_status()
+             if os.path.realpath(info.json()['model_path']) != os.path.realpath(manifest['actor']): raise ValueError('Wrong actor')
++            if q['teacher'] == 'actor_cache_head':  # no selector server: the actor must run the capture hooks
++                from openwebrl.actor_head_capture import hook_specs  # (as Zixian's crossbench LiveRuntime.setup)
++                info = await client.get(f"http://127.0.0.1:{replica['actor_port']}/server_info"); info.raise_for_status()
++                if info.json().get('forward_hooks') != hook_specs((18, 27, 36)): raise ValueError('Actor server lacks the capture hooks')
++                continue
+             info = await client.get(f"http://127.0.0.1:{replica['selector_port']}/health"); info.raise_for_status()
+             if info.json() != manifest['selector_health']: raise ValueError('Wrong teacher')
+     (root / 'results').mkdir(exist_ok=True)
+diff --git a/openwebrl/arm_inference.py b/openwebrl/arm_inference.py
+index 6824efc..4ab2643 100644
+--- a/openwebrl/arm_inference.py
++++ b/openwebrl/arm_inference.py
+@@ -119,7 +119,7 @@ async def request_selection_result(endpoint, payload, timeout, connect_timeout=N
+ class ActionSelector:
+     """Sample five iid proposals at one live state, score, execute one unchanged."""
+     def __init__(self, mode, endpoint, output, seed=42, candidates=5, timeout=180, exporter=None, connect_timeout=None):
+-        if mode not in ("baseline", "selection", "scalar"):
++        if mode not in ("baseline", "selection", "scalar", "actor_cache_head"):
+             raise ValueError(mode)
+         self.mode, self.endpoint = mode, endpoint.rstrip("/")
+         self.output, self.seed = Path(output), seed
+@@ -133,13 +133,34 @@ class ActionSelector:
+                        observation, history, task, task_id, turn, timeout):
+         import httpx
+         calls = []
++        # capture rids: the actor server exports the hidden states it computed for these candidates
++        rids = [f"actorhead-{os.urandom(8).hex()}-{index}" for index in range(self.candidates)]
+         for index in range(self.candidates):
+             params = dict(sampling_params, sampling_seed=candidate_seed(self.seed, task_id, turn, index))
+-            calls.append(infer(url, input_text, params, images, timeout_secs=timeout))
+-        outputs = await asyncio.gather(*calls)
++            extra = {"rid": rids[index]} if self.mode == "actor_cache_head" else {}
++            calls.append(infer(url, input_text, params, images, timeout_secs=timeout, **extra))
++        if self.mode == "actor_cache_head":
++            # each candidate's follow-up starts as soon as that candidate finishes generating
++            from openwebrl.actor_head_scoring import bundle, generate_with_tail
++            tok = (await asyncio.to_thread(bundle, os.environ["ACTORHEAD_HEAD"], os.environ["ACTORHEAD_TOKENIZER"]))["tokenizer"]
++            done = await asyncio.gather(*(generate_with_tail(c, url, input_text, list(images or []), rid, tokenizer=tok,
++                                                             capture_dir=os.environ["ACTORHEAD_DIR"], timeout=self.timeout)
++                                          for c, rid in zip(calls, rids)))
++            outputs, gens, metas = [d[0] for d in done], [d[1] for d in done], [d[2] for d in done]
++        else:
++            outputs = await asyncio.gather(*calls)
+         candidates = [split_response(o[0]) for o in outputs]
+         index, scores, raw, fallback = 0, None, None, None
+-        if self.mode != "baseline":
++        if self.mode == "actor_cache_head":
++            from openwebrl.actor_head_scoring import score_cached
++            result = await score_cached(gens, metas, rids, head_path=os.environ["ACTORHEAD_HEAD"],
++                                        tokenizer_path=os.environ["ACTORHEAD_TOKENIZER"], capture_dir=os.environ["ACTORHEAD_DIR"],
++                                        params_for_flops=int(os.environ["ACTORHEAD_PARAMS"]))
++            scores = result["scores"]
++            if len(scores) != len(candidates) or not all(math.isfinite(x) for x in scores):
++                raise ValueError("Invalid cached-head score vector")
++            index = max(range(len(scores)), key=lambda j: (scores[j], -j))
++        elif self.mode != "baseline":
+             payload = {
+                 "mode": self.mode, "task": task,
+                 "url": observation.get("active_tab_url", ""),
+diff --git a/openwebrl/generate_browser.py b/openwebrl/generate_browser.py
+index 2a807be..92fbde8 100644
+--- a/openwebrl/generate_browser.py
++++ b/openwebrl/generate_browser.py
+@@ -959,6 +959,7 @@ async def _run_inference_step(
+     sampling_params: dict,
+     image_data: list,
+     timeout_secs: float | None = None,
++    rid: str | None = None,
+ ):
+     """
+     Run a single inference step via SGLang /generate endpoint.
+@@ -970,6 +971,8 @@ async def _run_inference_step(
+     }
+     if image_data:
+         payload["image_data"] = image_data
++    if rid:  # actor_cache_head capture id (as Zixian's crossbench MeteredActor)
++        payload["rid"] = rid
+ 
+     try:
+         if timeout_secs is not None and timeout_secs > 0:
